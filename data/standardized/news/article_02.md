@@ -2,7 +2,7 @@
 
 **Source:** https://www.willflyforfood.net/hoi-an-food-guide/
 
-**Crawled:** 2026-09-25T11:55:06.942795
+**Crawled:** 2026-09-25T12:26:11.966877
 
 ---
 

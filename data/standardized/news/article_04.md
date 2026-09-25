@@ -2,7 +2,7 @@
 
 **Source:** https://hoianheritage.danang.gov.vn/en/news/news-events/announcement-of-the-visiting-in-hoi-an-ancient-town-125.html
 
-**Crawled:** 2026-09-25T11:55:31.708555
+**Crawled:** 2026-09-25T12:26:15.056805
 
 ---
 
@@ -124,6 +124,6 @@ Links
 - Select website -  Trung tâm văn hóa thể thao Hội An Hạ Long Bay Trung tâm Bảo tồn Di sản Thăng Long Ban Quản lý Quần thể Danh thắng Tràng An Trung tâm Bảo tồn Di sản Thành Nhà Hồ Vườn Quốc Gia Phong Nha Kẻ Bàng Trung tâm Bảo tồn Di tích Cố Đô Huế Ban Quản lý Di tích & Du lịch Mỹ Sơn
 [](javascript:void\(0\))
 You did not use the site, [Click here to remain logged](javascript:void\(0\);). Timeout:  60  second 
-![cron](https://hoianheritage.danang.gov.vn/index.php?second=cronjobs&p=k8874ofA)
+![cron](https://hoianheritage.danang.gov.vn/index.php?second=cronjobs&p=w88OhccG)
 ×
 #### Recommend article to your friend

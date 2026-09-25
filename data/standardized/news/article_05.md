@@ -2,7 +2,7 @@
 
 **Source:** https://en.baobacninhtv.vn/hoi-an-launches-tour-group-entry-fees.bbg
 
-**Crawled:** 2026-09-25T11:56:06.199909
+**Crawled:** 2026-09-25T12:26:16.519137
 
 ---
 
@@ -70,6 +70,7 @@ Send
 [![thumbnail](https://img.baobacninhtv.vn/Medias/551/2026/09/15/travel-agencies-and-businesses-survey-destinations-at-the-tay-yen-tu.jpg) Bac Ninh prepares to welcome visitors](/bac-ninh-prepares-to-welcome-visitors-postid454349.bbg)
 [![thumbnail](https://img.baobacninhtv.vn/Medias/551/2026/09/14/a-passenger-train-on-the-north-south-rail-line.jpg) Arsenale enters Vietnam’s luxury tourist rail market](/arsenale-enters-vietnam-s-luxury-tourist-rail-market-postid454263.bbg)
 [READ MORE](/hoi-an-launches-tour-group-entry-fees.bbg?p=2)
+> [Báo và phát thanh, truyền hình Bắc Ninh](https://www.facebook.com/baobacninhtv/)
 ###### [Domestic News](/bacgiang-en-domestic-news) ![](https://img.baobacninhtv.vn/Medias/551/2026/09/24/da-nang-among-the-top-destinations-for-2027.jpg)
 ##### [Lonely Planet names Da Nang among the Best in Travel 2027, choosing Golden Bridge as the feature image](/lonely-planet-names-da-nang-among-the-best-in-travel-2027-choosing-golden-bridge-as-the-feature-image-postid455043.bbg)
 [ •  2026 Mid-Autumn Festival celebrates childhood, traditional culture](/2026-mid-autumn-festival-celebrates-childhood-traditional-culture-postid455037.bbg)

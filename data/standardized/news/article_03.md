@@ -2,7 +2,7 @@
 
 **Source:** https://vinwonders.com/vi/wonderpedia/news/ve-dep-dem-trung-thu-o-hoi-an/
 
-**Crawled:** 2026-09-25T11:55:09.588556
+**Crawled:** 2026-09-25T12:26:13.917411
 
 ---
 
@@ -26,13 +26,13 @@ Turn your device in landscape mode.
 
 
 # Trung thu ở Hội An có gì? Thời gian & địa điểm tổ chức 2026
-![](https://static.vinwonders.com/production_style/style/images/ic_Calendar_2805.svg) ![](https://static.vinwonders.com/production_style/style/images/ic_Show_2805.svg)
+![](https://static.vinwonders.com/production_style/style/images/ic_Calendar_2805.svg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 4/5 - (1 vote) 
 **
 Trung thu ở Hội An đem đến cho du khách rất nhiều hoạt động, trải nghiệm hấp dẫn như ngắm nhìn phố đèn lồng lung linh sắc màu, thưởng thức màn múa lân đặc sắc, đi thuyền và thả đèn hoa đăng trên sông, tham gia trò chơi dân gian,…
 **
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E) **Mục lục**
-![](https://vinwonders.com/wp-content/themes/vinwonders/images/bg-bird.svg)![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20308%20355'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20522%20488'%3E%3C/svg%3E)![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20308%20355'%3E%3C/svg%3E)
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2028%2028'%3E%3C/svg%3E) Cẩm nang bỏ túi 
   * **Không gian huyền ảo:** Toàn bộ phố cổ tắt đèn điện từ 18:00, thay bằng ánh sáng rực rỡ từ hàng nghìn chiếc đèn lồng thủ công. Các tuyến phố đi bộ trở nên rộn ràng với tiếng trống lân và dòng người đổ về xem rước đèn.
   * **Trải nghiệm đặc trưng:** Hoạt động thả hoa đăng trên sông Hoài đạt đến quy mô lớn nhất năm, biến dòng sông thành một dải sáng lung linh. Du khách có thể đi thuyền gỗ, tự tay thả đèn và cầu nguyện bình an cho gia đình.

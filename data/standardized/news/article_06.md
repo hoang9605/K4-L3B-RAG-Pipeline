@@ -2,7 +2,7 @@
 
 **Source:** https://tuoitrenews.vn/news/ttnewsstyle/20250107/hoi-an-wants-to-offer-free-entry-into-ancient-town-to-more-visitor-groups/83776.html
 
-**Crawled:** 2026-09-25T11:56:30.694146
+**Crawled:** 2026-09-25T12:26:17.754891
 
 ---
 
