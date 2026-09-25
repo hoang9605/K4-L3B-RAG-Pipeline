@@ -67,7 +67,12 @@ def _embed_gemini_batch(batch: list[str]) -> list[list[float]]:
             )
             return [item.values for item in response.embeddings]
         except Exception as error:
-            # Free tier hay trả 429; chờ rồi thử lại thay vì bỏ cả lần index.
+            if "PerDay" in str(error):
+                raise RuntimeError(
+                    "Hết quota embedding Gemini trong ngày (free tier 1000 lượt). "
+                    "Chờ reset hoặc đổi EMBEDDING_PROVIDER/API key."
+                ) from error
+            # Giới hạn theo phút: chờ rồi thử lại thay vì bỏ cả lần index.
             if "429" not in str(error) or attempt == 4:
                 raise
             time.sleep(15 * (attempt + 1))
@@ -158,9 +163,23 @@ def chunk_documents(documents: list[dict]) -> list[dict]:
 
 
 def embed_chunks(chunks: list[dict]) -> list[dict]:
-    """Thêm embedding vào từng chunk (không sửa list đầu vào)."""
-    vectors = embed_texts([chunk["content"] for chunk in chunks])
-    return [{**chunk, "embedding": vector} for chunk, vector in zip(chunks, vectors)]
+    """Thêm embedding vào từng chunk (không sửa list đầu vào).
+
+    Chunk đã có trong Chroma với nội dung y hệt thì dùng lại vector cũ: chạy lại
+    pipeline không tốn quota embedding (free tier Gemini chỉ 1000 lượt/ngày).
+    """
+    existing = get_collection().get(
+        ids=[chunk["id"] for chunk in chunks], include=["documents", "embeddings"]
+    )
+    cached = {
+        item_id: list(vector)
+        for item_id, document, vector in zip(existing["ids"], existing["documents"], existing["embeddings"])
+    }
+    cached_content = dict(zip(existing["ids"], existing["documents"]))
+    todo = [c for c in chunks if cached_content.get(c["id"]) != c["content"]]
+    print(f"Embedding {len(todo)} new/changed chunks, reusing {len(chunks) - len(todo)}")
+    fresh = dict(zip([c["id"] for c in todo], embed_texts([c["content"] for c in todo]))) if todo else {}
+    return [{**chunk, "embedding": fresh.get(chunk["id"]) or cached[chunk["id"]]} for chunk in chunks]
 
 
 def _chroma_metadata(metadata: dict) -> dict:
