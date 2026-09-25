@@ -12,6 +12,8 @@ Nếu context không đủ hoặc provider lỗi, trả safe refusal; không b�
 """
 
 import os
+import re
+import time
 
 from dotenv import load_dotenv
 
@@ -29,7 +31,7 @@ USE_RERANKING = True
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini").strip()
 LLM_MODEL = os.getenv("LLM_MODEL", "").strip()
 DEFAULT_MODELS = {
-    "gemini": "gemini-3.5-flash",
+    "gemini": "gemini-3.5-flash-lite",
     "openai": "gpt-5-mini",
     "anthropic": "claude-sonnet-5",
 }
@@ -113,6 +115,23 @@ def call_llm(system_prompt: str, user_message: str) -> str:
     raise ValueError(f"Unsupported LLM_PROVIDER: {LLM_PROVIDER}")
 
 
+def call_llm_with_retry(system_prompt: str, user_message: str, attempts: int = 3) -> str:
+    """Free tier giới hạn request/phút (Gemini lite: 15 RPM) -> chờ rồi thử lại.
+
+    Hết quota theo ngày thì chờ vô ích -> ném lỗi ngay để trả safe refusal.
+    """
+    for attempt in range(attempts):
+        try:
+            return call_llm(system_prompt, user_message)
+        except Exception as error:
+            message = str(error)
+            if "429" not in message or "PerDay" in message or attempt == attempts - 1:
+                raise
+            delay = re.search(r"retryDelay['\"]?: ?'?(\d+)", message)
+            time.sleep(int(delay.group(1)) + 1 if delay else 30)
+    raise RuntimeError("unreachable")
+
+
 def _refusal() -> dict:
     return {"answer": REFUSAL, "sources": [], "retrieval_source": "none"}
 
@@ -131,7 +150,7 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     context = format_context(reorder_for_llm(numbered))
     user_message = f"Context:\n{context}\n\nQuestion: {query}"
     try:
-        answer = call_llm(SYSTEM_PROMPT, user_message).strip()
+        answer = call_llm_with_retry(SYSTEM_PROMPT, user_message).strip()
     except Exception as error:
         print(f"LLM call failed: {error}")
         return _refusal()

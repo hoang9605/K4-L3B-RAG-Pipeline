@@ -5,13 +5,21 @@ RRF gộp nhiều bảng xếp hạng mà không cộng trực tiếp cosine sco
 score. Công thức: RRF(d) = sum(1 / (k + rank)), rank bắt đầu từ 1.
 
 Lưu ý: RRF score chỉ phản ánh thứ hạng, không dùng để quyết định fallback.
+
+k=60 (Cormack) hợp với fuse danh sách dài; ở đây chỉ cắt top-5 từ 2 list x 10,
+k=60 khiến chunk hạng giữa ở cả 2 list thắng chunk hạng 1 của một list. Đo hit@5
+trên golden set (18 câu): k=60 -> 14/18, k=5 -> 15/18, k=2 -> 16/18, dense 15/18.
 """
+
+# ponytail: k chọn trên chính golden set (chưa có dev set riêng) -> có thể overfit;
+# thêm câu hỏi mới rồi đo lại hit@5 trước khi đổi.
+RRF_K = 2
 
 
 def rerank_rrf(
     ranked_lists: list[list[dict]],
     top_k: int = 5,
-    k: int = 60,
+    k: int = RRF_K,
 ) -> list[dict]:
     """Fuse nhiều ranked lists và trả hybrid SearchResult."""
     scores: dict[str, float] = {}
