@@ -11,13 +11,21 @@ Luồng xử lý:
 Không so sánh threshold với RRF score vì hai thang đo khác nhau.
 """
 
+import os
+
+from dotenv import load_dotenv
+
 from .task5_semantic_search import semantic_search
 from .task6_lexical_search import lexical_search
 from .task7_reranking import rerank_rrf
 from .task8_pageindex_vectorless import pageindex_search
 
 
-SCORE_THRESHOLD = 0.3
+load_dotenv()
+
+# Calibrate: query in-domain có best dense >= 0.77, out-of-domain <= 0.62
+# (gemini-embedding-001) -> đặt giữa hai nhóm. Ghi lại trong RESULT.md.
+SCORE_THRESHOLD = float(os.getenv("SCORE_THRESHOLD") or 0.70)
 DEFAULT_TOP_K = 5
 
 
@@ -27,28 +35,30 @@ def retrieve(
     score_threshold: float = SCORE_THRESHOLD,
     use_reranking: bool = True,
 ) -> list[dict]:
-    """Trả về hybrid hoặc pageindex SearchResult."""
-    # TODO: Implement full retrieval pipeline.
-    #
-    # dense = semantic_search(query, top_k=top_k * 2)
-    # sparse = lexical_search(query, top_k=top_k * 2)
-    # hybrid = (
-    #     rerank_rrf([dense, sparse], top_k=top_k)
-    #     if use_reranking else dense[:top_k]
-    # )
-    #
-    # best_dense_score = dense[0]["score"] if dense else 0.0
-    # if best_dense_score < score_threshold:
-    #     try:
-    #         fallback = pageindex_search(query, top_k=top_k)
-    #         if fallback:
-    #             return fallback
-    #     except Exception:
-    #         pass
-    # return hybrid[:top_k]
-    raise NotImplementedError("Implement retrieve")
+    """Trả về hybrid hoặc pageindex SearchResult.
+
+    use_reranking=False -> dense-only (Config A của A/B evaluation).
+    """
+    dense = semantic_search(query, top_k=top_k * 2)
+    if use_reranking:
+        sparse = lexical_search(query, top_k=top_k * 2)
+        results = rerank_rrf([dense, sparse], top_k=top_k)
+    else:
+        results = dense[:top_k]
+
+    best_dense_score = dense[0]["score"] if dense else 0.0
+    if best_dense_score < score_threshold:
+        try:
+            fallback = pageindex_search(query, top_k=top_k)
+            if fallback:
+                return fallback
+        except Exception as error:
+            print(f"PageIndex fallback failed, using hybrid: {error}")
+    return results[:top_k]
 
 
 if __name__ == "__main__":
-    for result in retrieve("test query", top_k=3):
-        print(result)
+    for q in ["Khu du lịch là gì?", "Công thức nấu phở bò"]:
+        print("\nQ:", q)
+        for result in retrieve(q, top_k=3):
+            print(" ", round(result["score"], 4), result["retrieval_method"], result["id"])

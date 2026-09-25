@@ -24,9 +24,12 @@ def setup_directory() -> None:
 
 
 def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-
-    raise NotImplementedError("Implement download_documents")
+    """Tài liệu được tải thủ công vào DATA_DIR; hàm này kiểm tra đủ số lượng."""
+    files = [p for p in DATA_DIR.iterdir() if p.suffix.lower() in {".pdf", ".doc", ".docx"}]
+    for path in files:
+        print(f"Found: {path.name} ({path.stat().st_size // 1024} KB)")
+    if len(files) < 3:
+        raise SystemExit(f"Cần ít nhất 3 PDF/DOCX trong {DATA_DIR}, hiện có {len(files)}")
 
 
 if __name__ == "__main__":
