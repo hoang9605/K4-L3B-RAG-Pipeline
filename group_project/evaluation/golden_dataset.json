@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Theo Luật Du lịch 2017, khu du lịch là gì?",
+    "expected_answer": "Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu tư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch; khu du lịch bao gồm khu du lịch cấp tỉnh và khu du lịch quốc gia.",
+    "expected_context": "6. Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu tư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch. Khu du lịch bao gồm khu du lịch cấp tỉnh và khu du lịch quốc gia.",
+    "source": "legal/09.signed.md"
+  },
+  {
+    "question": "Luật Du lịch định nghĩa du lịch cộng đồng như thế nào?",
+    "expected_answer": "Du lịch cộng đồng là loại hình du lịch được phát triển trên cơ sở các giá trị văn hóa của cộng đồng, do cộng đồng dân cư quản lý, tổ chức khai thác và hưởng lợi.",
+    "expected_context": "15. Du lịch cộng đồng là loại hình du lịch được phát triển trên cơ sở các giá trị văn hóa của cộng đồng, do cộng đồng dân cư quản lý, tổ chức khai thác và hưởng lợi.",
+    "source": "legal/09.signed.md"
+  },
+  {
+    "question": "Khách du lịch gồm những loại nào theo Luật Du lịch?",
+    "expected_answer": "Khách du lịch gồm khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài.",
+    "expected_context": "Điều 10. Các loại khách du lịch. Khách du lịch bao gồm khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài.",
+    "source": "legal/09.signed.md"
+  },
+  {
+    "question": "Điều kiện kinh doanh dịch vụ lữ hành nội địa là gì?",
+    "expected_answer": "Phải là doanh nghiệp thành lập theo pháp luật về doanh nghiệp; ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng; người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành lữ hành, nếu chuyên ngành khác thì phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+    "expected_context": "1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm: a) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp; b) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng; c) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+    "source": "legal/09.signed.md"
+  },
+  {
+    "question": "Nêu một số nguyên tắc phát triển du lịch trong Luật Du lịch 2017.",
+    "expected_answer": "Phát triển du lịch bền vững theo chiến lược, quy hoạch, kế hoạch, có trọng tâm, trọng điểm; gắn với bảo tồn và phát huy giá trị di sản văn hóa dân tộc, tài nguyên thiên nhiên, khai thác lợi thế từng địa phương và tăng cường liên kết vùng; bảo đảm chủ quyền quốc gia, quốc phòng, an ninh; bảo đảm lợi ích quốc gia, cộng đồng và quyền lợi hợp pháp của khách du lịch, doanh nghiệp; phát triển đồng thời du lịch nội địa và du lịch quốc tế.",
+    "expected_context": "Điều 4. Nguyên tắc phát triển du lịch 1. Phát triển du lịch bền vững, theo chiến lược, quy hoạch, kế hoạch, có trọng tâm, trọng điểm. 2. Phát triển du lịch gắn với bảo tồn và phát huy giá trị di sản văn hóa dân tộc, tài nguyên thiên nhiên, khai thác lợi thế của từng địa phương và tăng cường liên kết vùng. 3. Bảo đảm chủ quyền quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội... 4. Bảo đảm lợi ích quốc gia, lợi ích cộng đồng, quyền và lợi ích hợp pháp của khách du lịch, tổ chức, cá nhân kinh doanh du lịch. 5. Phát triển đồng thời du lịch nội địa và du lịch quốc tế.",
+    "source": "legal/09.signed.md"
+  },
+  {
+    "question": "Theo quy định của Hà Nội, có những loại hình tổ chức quản lý khu du lịch cấp thành phố nào?",
+    "expected_answer": "Có hai loại hình: đơn vị quản lý khu du lịch thuộc phạm vi quản lý của Ủy ban nhân dân cấp huyện; và đơn vị quản lý khu du lịch là tổ chức có tư cách pháp nhân hoặc doanh nghiệp được thành lập theo pháp luật về doanh nghiệp.",
+    "expected_context": "Điều 5. Các loại hình tổ chức quản lý khu du lịch 1. Đơn vị quản lý khu du lịch thuộc phạm vi quản lý của Ủy ban nhân dân cấp huyện. 2. Đơn vị quản lý khu du lịch là tổ chức có tư cách pháp nhân hoặc doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp.",
+    "source": "legal/QDPQ-68-2024.md"
+  },
+  {
+    "question": "Quyết định của UBND TP Đà Nẵng năm 2026 trong lĩnh vực du lịch công bố nội dung gì?",
+    "expected_answer": "Quyết định công bố danh mục thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực Du lịch thuộc phạm vi chức năng quản lý nhà nước của Sở Văn hóa, Thể thao và Du lịch thành phố Đà Nẵng.",
+    "expected_context": "QUYẾT ĐỊNH Về việc công bố danh mục thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực Du lịch thuộc phạm vi chức năng quản lý nhà nước của Sở Văn hóa, Thể thao và Du lịch thành phố Đà Nẵng.",
+    "source": "legal/DaNang.md"
+  },
+  {
+    "question": "Vé tham quan phố cổ Hội An có những mức giá nào và mỗi loại gồm quyền lợi gì?",
+    "expected_answer": "Có vé 80.000 VND (tham quan cảnh quan chung, 1 di tích Chùa Cầu hoặc Quan Công Miếu, tự chọn 2 di tích còn lại) và vé 120.000 VND (cảnh quan chung, Chùa Cầu hoặc Quan Công Miếu, tự chọn 1 di tích trong hệ thống bảo tàng và 3 di tích còn lại).",
+    "expected_context": "Entrance ticket price 80.000 VND: Visit general landscape of the ancient town. Visit 01 monument: Japanese Covered Bridge or Quan Công Temple. Self-selection 02 monuments in the rest. Entrance ticket price 120.000 VND: Visit general landscape of the ancient town. Visit 01 monument: Japanese Covered Bridge or Quan Công Temple. Self-selection 01 monument in the museum system. Self-selection 03 monuments in the rest.",
+    "source": "news/article_04.md"
+  },
+  {
+    "question": "Vé tham quan phố cổ Hội An có giá trị sử dụng trong bao lâu?",
+    "expected_answer": "Chỉ cần mua vé một lần, vé có giá trị trong suốt thời gian lưu trú tại Hội An, tối đa 3 ngày.",
+    "expected_context": "Visitors only need to purchase a ticket once, which is valid throughout the stay in Hoi An (up to 03 days).",
+    "source": "news/article_04.md"
+  },
+  {
+    "question": "Những ai được miễn vé tham quan phố cổ Hội An?",
+    "expected_answer": "Trẻ em dưới 16 tuổi; người thuộc hộ nghèo; nhà báo, nhà nghiên cứu và hội viên Hội Di sản Văn hóa Việt Nam; người khuyết tật nặng theo quy định.",
+    "expected_context": "Exemptions: Children under 16 years old; people from poor households; journalists, researchers, and members of the Vietnam Heritage Association; people with severe disabilities as defined by the government.",
+    "source": "news/article_04.md"
+  },
+  {
+    "question": "Đoàn từ bao nhiêu người mua vé thì được miễn phí dịch vụ hướng dẫn viên khi tham quan phố cổ Hội An?",
+    "expected_answer": "Đoàn mua từ 8 vé trở lên được cung cấp miễn phí dịch vụ hướng dẫn tham quan.",
+    "expected_context": "For groups purchasing 8 or more tickets, a free guide service will be provided for the tour of World Cultural Heritage Site – Hội An Ancient Town and the monuments included in the ticket.",
+    "source": "news/article_04.md"
+  },
+  {
+    "question": "Khung giờ phố đi bộ trong phố cổ Hội An vào mùa hè là khi nào?",
+    "expected_answer": "Trong khu phố cổ, phố đi bộ và xe đạp áp dụng từ 9:00 đến 21:30 vào mùa hè (mùa đông đến 21:00).",
+    "expected_context": "the \"Walking and Cycling town\": In the ancient town: From 9:00 AM to 9:30 PM during the summer. From 9:00 AM to 9:00 PM during the winter.",
+    "source": "news/article_04.md"
+  },
+  {
+    "question": "Từ năm 2023, Hội An áp dụng thu vé với đối tượng nào và ai không phải mua vé?",
+    "expected_answer": "Từ ngày 15/5/2023, khách đi theo đoàn tour có hướng dẫn phải mua vé vào phố cổ; khách lẻ và gia đình được khuyến khích mua nhưng không bắt buộc; người vào ăn uống hoặc chụp ảnh cưới không phải mua vé.",
+    "expected_context": "Visitors to Hoi An who arrive as part of guided tour groups will have to purchase tickets to enter the ancient town starting May 15. Individuals wishing to support the tourist site may buy tickets, but it won't be mandatory... those entering to eat, drink, or take wedding photos would not have to buy tickets.",
+    "source": "news/article_05.md"
+  },
+  {
+    "question": "Hội An đề xuất mở rộng miễn phí vào phố cổ cho những đối tượng nào?",
+    "expected_answer": "Hội An đề xuất miễn phí vào phố cổ cho cán bộ từ các tỉnh, thành khác, đại diện các quốc gia hợp tác với Hội An, và các đoàn khách trong nước, quốc tế đến Hội An tham gia sự kiện giao lưu văn hóa.",
+    "expected_context": "The proposal, submitted to the provincial People’s Committee, seeks to grant complimentary access to the ancient town for officials from other provinces and cities, as well as representatives from nations cooperating with Hoi An. The city has suggested extending free admission to local and international tourist groups visiting Hoi An for cultural exchange events.",
+    "source": "news/article_06.md"
+  },
+  {
+    "question": "Quán Thanh cao lầu ở Hội An có gì đặc biệt?",
+    "expected_answer": "Quán Thanh cao lầu nằm ở trung tâm phố cổ, có tuổi đời hơn 20 năm, mang hương vị cao lầu chính gốc; bát cao lầu đầy đặn với xá xíu mềm, sợi mì dai, rau sống, bì heo chiên giòn và nước thịt xá xíu đậm đà.",
+    "expected_context": "Quán Thanh cao lầu Nằm ngay tại trung tâm phố cổ Hội An, cao lầu Thanh là quán ăn ngon ở Hội An có tuổi đời hơn 20 năm tuổi, mang đậm hương vị của mì Cao Lầu chính gốc. Một bát cao lầu ở đây luôn đầy đặn với xá xíu mềm, sợi mì dai dai, các loại rau sống tươi sạch, bì heo chiên giòn cùng nước thịt xá xíu đậm đà.",
+    "source": "news/article_01.md"
+  },
+  {
+    "question": "Blog Will Fly for Food yêu thích quán nào nhất cho bánh mì, cơm gà, cao lầu và mì Quảng ở Hội An?",
+    "expected_answer": "Bánh mì: Madam Khanh – The Banh Mi Queen; cơm gà: Long Com Ga; cao lầu: Cao Lau Khong Gian Xanh; mì Quảng: Ông Hai.",
+    "expected_context": "BANH MI: Madam Khanh – The Banh Mi Queen. COM GA: Long Com Ga. CAO LAU: Cao Lau Khong Gian Xanh. MI QUANG: Ong Hai (Mr. Hai).",
+    "source": "news/article_02.md"
+  },
+  {
+    "question": "Tết Trung thu ở Hội An năm 2026 diễn ra vào ngày nào?",
+    "expected_answer": "Năm 2026, Tết Trung thu (Rằm tháng 8 âm lịch) rơi vào thứ Sáu, ngày 25/9 dương lịch; không khí lễ hội thường nhộn nhịp từ ngày 12 đến hết ngày 15 âm lịch.",
+    "expected_context": "Năm 2026, Tết Trung thu (Rằm tháng 8 âm lịch) rơi vào thứ Sáu, ngày 25 tháng 9 dương lịch. Tuy nhiên, không khí lễ hội thường bắt đầu nhộn nhịp từ ngày 12 đến hết ngày 15 âm lịch.",
+    "source": "news/article_03.md"
+  },
+  {
+    "question": "Trải nghiệm Trung thu ở phố cổ Hội An khác biệt thế nào so với nơi khác?",
+    "expected_answer": "Điểm độc đáo là sự tĩnh lặng và hoài cổ: Hội An tắt toàn bộ đèn điện, chỉ dùng đèn lồng và nến.",
+    "expected_context": "Điểm độc đáo nhất là sự tĩnh lặng và hoài cổ. Hội An sẽ tắt toàn bộ đèn điện, chỉ sử dụng đèn lồng và nến.",
+    "source": "news/article_03.md"
+  }
+]

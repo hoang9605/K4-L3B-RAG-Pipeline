@@ -1,0 +1,30 @@
+{
+  "evaluator_model": "gemini-3.1-flash-lite",
+  "generator_model": "gemini-3.5-flash-lite",
+  "top_k": 5,
+  "n_questions": 18,
+  "configs": {
+    "A_dense": {
+      "scores": {
+        "faithfulness": 0.9679,
+        "answer_relevancy": 0.851,
+        "context_recall": 0.8889,
+        "llm_context_precision_with_reference": 0.6708,
+        "average": 0.8447
+      },
+      "seconds_per_question": 4.61,
+      "refusals": 2
+    },
+    "B_hybrid_rrf": {
+      "scores": {
+        "faithfulness": 0.9458,
+        "answer_relevancy": 0.9067,
+        "context_recall": 0.9444,
+        "llm_context_precision_with_reference": 0.6935,
+        "average": 0.8726
+      },
+      "seconds_per_question": 3.13,
+      "refusals": 1
+    }
+  }
+}
