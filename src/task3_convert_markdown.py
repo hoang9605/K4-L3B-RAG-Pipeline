@@ -20,30 +20,34 @@ LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
 
 
+def prepare_output_dir(name: str) -> Path:
+    """Tạo thư mục output và xoá .md cũ để chạy lại không để sót file thừa."""
+    output_dir = OUTPUT_DIR / name
+    output_dir.mkdir(parents=True, exist_ok=True)
+    for old in output_dir.glob("*.md"):
+        old.unlink()
+    return output_dir
+
+
 def convert_legal_docs() -> None:
-    # TODO:Convert PDF/DOCX vào standardized/legal. 
-    #
     from markitdown import MarkItDown
     legal_dir = LANDING_DIR / "legal"
-    output_dir = OUTPUT_DIR / "legal"
-    output_dir.mkdir(parents=True, exist_ok=True)
+    output_dir = prepare_output_dir("legal")
     converter = MarkItDown()
     for path in legal_dir.iterdir():
         if path.suffix.lower() in {".pdf", ".doc", ".docx"}:
-            result = converter.convert(str(path))
-            (output_dir / f"{path.stem}.md").write_text(
-                result.text_content, encoding="utf-8"
-            )
-    # raise NotImplementedError("Implement convert_legal_docs")
+            text = converter.convert(str(path)).text_content.strip()
+            if not text:
+                # PDF scan (chỉ có ảnh) không trích được chữ -> không tạo file rỗng.
+                print(f"Skipped (no text, likely scanned): {path.name}")
+                continue
+            (output_dir / f"{path.stem}.md").write_text(text, encoding="utf-8")
 
 
 def convert_news_articles() -> None:
-    # TODO: Convert JSON vào standardized/news.
-    #
     import json
     news_dir = LANDING_DIR / "news"
-    output_dir = OUTPUT_DIR / "news"
-    output_dir.mkdir(parents=True, exist_ok=True)
+    output_dir = prepare_output_dir("news")
     for path in news_dir.glob("*.json"):
         data = json.loads(path.read_text(encoding="utf-8"))
         header = (
@@ -54,7 +58,6 @@ def convert_news_articles() -> None:
         (output_dir / f"{path.stem}.md").write_text(
             header + data["content_markdown"], encoding="utf-8"
         )
-    # raise NotImplementedError("Implement convert_news_articles")
 
 
 def convert_all() -> None:
