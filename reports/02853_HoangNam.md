@@ -31,13 +31,13 @@
 ## Kiểm thử và kết quả
 
 - Test đã dùng: `pytest tests/test_contracts.py -k "lexical or rrf"`, `pytest tests/test_acceptance.py -k "legal or news or standardized"`.
-- Kết quả trước/sau: test BM25 fail → pass sau khi sửa IDF; dữ liệu chuẩn hóa 2/3 → 3/3 pass sau khi xử lý PDF scan.
-- Lỗi phát hiện: câu hỏi tiếng Việt về giá vé không lấy được chunk tiếng Anh chứa "80.000 VND" (BM25 không khớp từ nào) → ghi vào worst performers.
+- Kết quả trước/sau: test BM25 fail → pass sau khi sửa IDF; dữ liệu chuẩn hóa 2/3 → 3/3 pass sau khi xử lý PDF scan. Hybrid (Config B) từ 0.783 → 0.873, vượt dense 0.845.
+- Lỗi phát hiện: lần eval đầu hybrid thua dense vì câu hỏi tiếng Việt không khớp token nào của chunk tiếng Anh (Q10, Q11 bị từ chối) và RRF k=60 đẩy chunk chỉ một retriever tìm thấy ra khỏi top 5. Cách xử lý: dịch 117 chunk tiếng Anh sang tiếng Việt một lần (cache `data/bm25_translations.json`) để BM25 index cả hai ngôn ngữ, và giảm RRF k=60 → 2. Hit@5 hybrid 14/18 → 16/18.
 
 ## Điều còn hạn chế
 
-- Hạn chế: BM25 không hiểu song ngữ; câu hỏi tiếng Việt không khớp được tài liệu tiếng Anh.
-- Nếu có thêm thời gian: thêm query expansion VI→EN trước BM25 và đo A/B.
+- Hạn chế: RRF k=2 được chọn trên chính 18 câu golden (chưa có dev set riêng) nên có nguy cơ overfit; câu Q17 vẫn bị RRF xếp sau dù BM25 tìm được hạng 2.
+- Nếu có thêm thời gian: thêm reranker cross-encoder sau RRF và đo lại trên một dev set mới.
 
 ## Xác nhận đóng góp
 

@@ -32,7 +32,7 @@
 
 - Test đã dùng: `pytest tests/test_contracts.py -k retrieve` (3 test fallback/RRF), chạy crawler và mở từng JSON kiểm tra.
 - Kết quả trước/sau: crawl lần đầu 7 URL chỉ 4 bài dùng được (404, Cloudflare, rỗng) → 6/6 bài hợp lệ sau khi thêm kiểm tra lỗi.
-- Lỗi phát hiện: câu "Theo Luật Du lịch 2017, khu du lịch là gì?" không lấy được chunk định nghĩa vì QĐ Hà Nội chiếm top-5 → hệ thống từ chối (đúng hành vi, nhưng recall thấp).
+- Lỗi phát hiện: câu "Theo Luật Du lịch 2017, khu du lịch là gì?" với dense-only không lấy được chunk định nghĩa (hạng 10) vì QĐ Hà Nội chiếm top 5 → hệ thống từ chối (đúng hành vi khi thiếu context). Với hybrid cuối cùng, BM25 kéo chunk này vào top 5 nên trả lời đúng (recall 0 → 1.0), nhưng precision chỉ 0.2 vì 4/5 context vẫn là QĐ Hà Nội.
 
 ## Điều còn hạn chế
 
