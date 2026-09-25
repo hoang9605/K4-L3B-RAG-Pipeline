@@ -1,0 +1,532 @@
+# 25 Hoi An Restaurants You’ll Want to Fly For | Will Fly for Food
+
+**Source:** https://www.willflyforfood.net/hoi-an-food-guide/
+
+**Crawled:** 2026-09-25T10:50:38.104087
+
+---
+
+[Skip to Content](https://www.willflyforfood.net/hoi-an-food-guide/#content)
+Search Magnifying Glass
+Search for: Close Search × 
+[![Will Fly for Food](https://www.willflyforfood.net/wp-content/uploads/2023/02/wfff-logo-box-300px.png)](https://www.willflyforfood.net/ "Will Fly for Food")
+  * [LATEST](https://www.willflyforfood.net/blog/)
+  * [GUIDES≺](https://www.willflyforfood.net/hoi-an-food-guide/)
+    * [FOOD GUIDES](https://www.willflyforfood.net/category/food-guides/)
+    * [TRAVEL GUIDES](https://www.willflyforfood.net/category/travel-guides/)
+    * [NATIONAL DISH QUEST](https://www.willflyforfood.net/category/national-dish-quest/)
+    * [EVERYWHERE & NOWHERE](https://www.willflyforfood.net/category/miscellaneous/)
+  * [DESTINATIONS≺](https://www.willflyforfood.net/category/barefoot-bohemian/)
+    * [ASIA](https://www.willflyforfood.net/asia/)
+    * [EUROPE](https://www.willflyforfood.net/europe/)
+    * [OCEANIA](https://www.willflyforfood.net/oceania/)
+    * [NORTH AMERICA](https://www.willflyforfood.net/north-america/)
+    * [SOUTH AMERICA](https://www.willflyforfood.net/south-america/)
+    * [AFRICA](https://www.willflyforfood.net/africa/)
+  * [ABOUT≺](https://www.willflyforfood.net/the-traveleaters/)
+    * [CONTACT](https://www.willflyforfood.net/contact/)
+    * [TERMS OF USE](https://www.willflyforfood.net/terms-of-use/)
+    * [DISCLAIMER](https://www.willflyforfood.net/disclaimer/)
+    * [PRIVACY POLICY](https://www.willflyforfood.net/privacy-policy/)
+
+
+# Hoi An Food Guide: 25 Must-Try Hoi An Restaurants and Street Food Stalls
+Posted on Last updated: January 31, 2026
+_**TERMS OF USE:** Some of the information on this website may have changed since the time of writing. By continuing to read this article, you agree to be bound by our [Terms of Use](https://www.willflyforfood.net/terms-of-use/) and [Disclaimer](https://www.willflyforfood.net/disclaimer/) and verify any information before taking action. Stay safe!_
+_**DISCLOSURE:** Some of our articles may contain affiliate links or sponsorships (disclosed at the bottom)._
+I’ll give you three reasons to visit Hoi An – banh mi, com ga, and cao lau. They’re three of the best things you can eat in Hoi An, which is saying a lot because there’s plenty of good food to be had in this central Vietnamese town.
+When we first visited [Hoi An](https://www.willflyforfood.net/best-things-to-do-in-hoi-an-vietnam/) in 2017, we were smitten with both the town itself and its amazing Vietnamese food. We didn’t know what to expect so our first night in the [Ancient Town](https://www.willflyforfood.net/the-ancient-town-of-hoi-an-vietnam-is-almost-too-pretty-to-be-real/) made us feel like we had woken up in a dream. The multi-colored paper lanterns zig-zagging between rows of crumbling shophouses looked like something out of a fairy tale.
+But as striking as the town is at first sight, you get used to it pretty quickly. The novelty fades and by the second or third night, we found the crowds of tourists in the Ancient Town to be an inconvenience, even a nuisance.
+But one thing that definitely doesn’t get old is the food. Hoi An is one of our favorite culinary cities in Vietnam, which is why I focused solely on Vietnamese food on my most recent trip. No sightseeing, no guided tours. Just [coffee](https://www.willflyforfood.net/hoi-an-coffee-guide/) and the best central [Vietnamese street food](https://www.willflyforfood.net/vietnamese-food-guide-45-must-try-dishes-in-vietnam/) I could find.
+The result is this Hoi An food guide of 25 restaurants and street food stalls offering many must-try dishes, including a few places to have some of the best banh mi, com ga, and cao lau in town. If you travel for food like we do, then you’re going to find this restaurant guide very useful.
+## HOI AN RESTAURANTS QUICK LINKS
+To facilitate your Hoi An trip planning, I’ve compiled links to hotels, tours, and other services here.
+### HOTELS
+Top-rated hotels in Hoi An Ancient Town, the most convenient area to stay for people on their first trip to Hoi An.
+  * **Luxury:** [Anantara Hoi An Resort](https://www.booking.com/hotel/vn/anantara-hoi-an-resort.en.html?aid=825461&no_rooms=1&group_adults=2)
+  * **Midrange:** [Hoian Central Hotel](https://www.booking.com/hotel/vn/hoi-an-central.en.html?aid=825461&no_rooms=1&group_adults=2)
+  * **Budget:** [Family Hotel](https://www.booking.com/hotel/vn/family-tp-hoi-an.en.html?aid=825461&no_rooms=1&group_adults=2)
+
+
+### TOURS
+  * **Sightseeing Tour:** [Hoi An by Night – 4-Hour Tour with Dinner](https://www.getyourguide.com/hoi-an-l831/half-day-hoi-an-by-night-with-dinner-t37046/?partner_id=FJOYZFL)
+  * **Street Food Tour:** [Night Food Tasting Tour](https://www.getyourguide.com/hoi-an-l831/hoi-an-food-adventure-t48802/?partner_id=FJOYZFL)
+  * **Cooking Class:** [Authentic Vietnamese Cooking Tour](https://www.getyourguide.com/hoi-an-l831/sabirama-cooking-tour-and-restaurant-t74675/?partner_id=FJOYZFL)
+  * **Day Trip:** [Day Tour of My Son Temples and Marble Mountain](https://www.getyourguide.com/hoi-an-l831/my-son-holy-temple-marble-mountain-from-hoi-an-tour-t36807/?partner_id=FJOYZFL)
+
+
+### OTHER SERVICES
+  * [Vietnam eVisa](https://www.ivisa.com/vietnam-e-visa?utm_source=will_fly_for_food)
+  * [Travel Insurance](https://heymondo.com/?utm_medium=Afiliado&utm_source=WILLFLYFORFOOD&utm_campaign=PRINCIPAL&cod_descuento=WILLFLYFORFOOD&ag_campaign=INPUT&agencia=xjj7QfdYNLgdFvXHNFhif7MDajdqEfDpzVItziYP) _(non-US residents get**5% off**)_
+  * [Vietnam eSIM](https://airalo.tp.st/eXJJknqq)
+
+
+### HOI AN TRAVEL GUIDE
+Before you visit Hoi An, be sure to check out our detailed [Hoi An travel guide](https://www.willflyforfood.net/the-first-timers-travel-guide-to-hoi-an-vietnam/). It’ll tell you all you need to know – like how to get to Hoi An from Da Nang Airport, what to do, which cafes to visit etc. – to help you plan your trip.
+## Save This on Pinterest!
+No time to read this guide on the best restaurants in Hoi An? Click on the save button and pin it for later!
+[![](https://assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png)](https://www.pinterest.com/pin/create/button/?url=https://www.willflyforfood.net/hoi-an-food-guide/&media=hhttps://www.willflyforfood.net/wp-content/uploads/2019/12/hoi-an-food-guide-pinterest.jpg&description=Hoi%20An%20Food%20Guide:%2025%20Must-Eat%20Restaurants%20and%20Street%20Food%20Stalls%20in%20Hoi%20An,%20Vietnam%20#hoian%20#vietnam%20#vietnamtravel%20#vietnamesefood%20#hoianguide)
+![Lanterns and cao lau at a restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/hoi-an-food-guide-pinterest.jpg.webp)
+## MUST-TRY REGIONAL FOOD IN HOI AN
+There are many delicious dishes to be had in Hoi An, but for me, the holy trinity is comprised of com ga, banh mi, and cao lau, with mi quang being the fourth wheel. Being such important dishes, I made sure to seek out at least three of the most recommended restaurants and street food stalls to try each of these dishes. Here’s a brief description of each.
+### Banh Mi
+Banh mi and pho are two of the most well-known Vietnamese dishes outside of the country. Strictly speaking, term _banh mi_ means “bread” but people use it to refer to the sandwich. 
+To prepare, a small [French baguette](https://www.willflyforfood.net/french-food/) is split lengthwise and filled with any number of ingredients like liver pate, cold cuts, pickled vegetables, cucumber slices, and cilantro. It’s a light sandwich that’s typically eaten as a snack.
+You can find banh mi pretty much anywhere in the country but the [best sandwiches](https://www.willflyforfood.net/best-sandwiches-in-the-world/) are said to come from Hoi An, and it’s all because of the [bread](https://www.willflyforfood.net/types-of-bread/). No one really knows for sure why the bread in Hoi An is better, but some say it may be because of recipes left by the French in the mid-1800s. It could also be because of the type of flour used.
+Whatever the reason, you’ll notice that the bread in Hoi An is indeed better than in most other parts of the country. It’s lighter and crisper and superior to any banh mi I personally tried in [Hanoi](https://www.willflyforfood.net/the-perfect-3-day-hanoi-itinerary/) or [Saigon](https://www.willflyforfood.net/saigon-food-guide-25-must-eat-restaurants-street-food-stalls-in-ho-chi-minh-city-vietnam/), which is saying a lot because nearly every banh mi I had in Vietnam was amazing.
+## TRAVELEATER DEALS
+Going on a trip soon? Enjoy up to **50% off** on selected experiences and activities with [Klook](https://klook.tpo.lu/Q8TQFEHw) and [Get Your Guide](https://getyourguide.tpo.lu/RCgFNulP). Click on the links for a list of discounts, promo codes, and limited-time offers.
+### Com Ga
+Com ga is the Vietnamese version of [Hainanese chicken rice](https://www.willflyforfood.net/singapore-5-best-places-to-eat-hainanese-chicken-rice-in-singapore/). Originally from China, it found its way to Hoi An by way of Chinese traders who settled in Quang Nam Province. Many of these traders were from Hainan which is less than 450 km northeast of Hoi An.
+Com ga is a dish of shredded poached chicken served with seasoned pilaf rice, shredded green papaya and carrot, fresh herbs, and a bowl of chicken broth that may or may not contain offal and cubes of congealed blood. It’s one of those deceptive dishes that looks tasteless but is absolutely packed with flavor.
+### Cao Lau
+Cao lau is the third dish that forms the holy trinity of Hoi An’s must-eats. It’s a rice noodle dish topped with cha siu pork, fresh herbs, bean sprouts, rice crackers, and deep-fried squares of pork skin. What makes cao lau a quintessential Hoi An dish are the noodles. Or more specifically, the water used to make them.
+To create authentic cao lau, the water must be drawn from an ancient Cham well called the Ba Le Well. Wood ash from trees that grow on Cham Island is mixed with the well’s alkaline water to create a lye solution used to pre-soak the noodles. 
+This unique lye solution is what gives cao lau noodles its distinctive yellow tinge and chewier texture. After soaking in the solution, the noodles are then smoked over an ash-burning furnace to give them a smoky flavor. Needless to say, authentic cao lau needs to be enjoyed in Hoi An. 
+### Mi Quang
+Mi quang seems as ubiquitous in Hoi An as cao lau. In fact, every restaurant specializing in cao lau seems to offer mi quang as well. One could argue that mi quang is another must-try dish in Hoi An. 
+The reason I don’t give mi quang as much weight as the previous three is because it’s a dish that’s more closely associated with nearby [Da Nang](https://www.willflyforfood.net/restaurants-in-danang-vietnam/). It’s my belief that it’s best to have a dish at the source which is why I think the best mi quang will probably be in Da Nang, not Hoi An.
+Nonetheless, mi quang is popular enough and Da Nang near enough that the mi quang in Hoi An probably doesn’t lag far behind, if at all. If you aren’t making a stop in Da Nang, then it’s a dish you should definitely have in Hoi An.
+Mi quang is a noodle dish that’s slightly soupier than cao lau and made with a wider type of rice noodle. Its broth is made by simmering meat (typically chicken or pork) in water or bone broth before seasoning with fish sauce, black pepper, shallots, and a pungent, garlic-type vegetable known as _cu nen_. This produces a concentrated broth that’s ladled about 1-2 cm deep into a bowl of rice noodles topped with pork, shrimp, or chicken.
+Aside from the proteins, a host of other ingredients are added like hard-boiled egg, peanuts, rice cracker, and fresh herbs. Toppings may vary from restaurant to restaurant but it’s said that lemon or lime, green chili, peanuts, and rice cracker must be present for a mi quang to be considered authentic.
+## THE BEST HOI AN RESTAURANTS & STREET FOOD STALLS
+Being a non-Vietnamese, I don’t claim to be an expert on any of these dishes. I can only tell you what tastes good to me. Taste is subjective so we won’t always agree, but I’ve listed my personal favorites below. 
+**BANH MI:** [Madam Khanh – The Banh Mi Queen](https://www.willflyforfood.net/hoi-an-food-guide/#madam-khanh)  
+**COM GA:** [Long Com Ga](https://www.willflyforfood.net/hoi-an-food-guide/#long-com-ga)  
+**CAO LAU:** [Cao Lau Khong Gian Xanh](https://www.willflyforfood.net/hoi-an-food-guide/#cao-lau-khong-gian-xanh)  
+**MI QUANG:** [Ong Hai (Mr. Hai)](https://www.willflyforfood.net/hoi-an-food-guide/#ong-hai)
+You can click on the links to jump down to pictures and information about that specific restaurant. Otherwise, you an read through all 25 restaurants below.
+### 1. Banh Mi Phuong
+[Banh Mi Phuong](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d2365673-Reviews-Banh_Mi_Phuong-Hoi_An_Quang_Nam_Province.html) is recognized by many, most importantly by locals, as one of the two best banh mi restaurants in Hoi An. It was the stall recommended by the late great Anthony Bourdain in a Vietnam episode of No Reservations. He ordered one with everything on it and called it a “symphony of a sandwich”.
+We ordered this **banh mi with pork, ham, and pate** and it was indeed phenomenal. The bread is so light and crusty on the outside and soft and pillowy on the inside that it sort of crumbles in on itself when you take a bite. The bread truly is the star here so for me, it almost doesn’t matter what’s inside. It’ll be delicious regardless.
+![Banh Mi at Banh Mi Phuong restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/banh-mi-phuong1.jpg.webp)
+This banh mi was from our most recent trip in 2023. Their sandwiches are just as good as ever. 
+After multiple trips to Vietnam and many banh mi stalls, I can confidently say that the bread at Banh Mi Phuong may be the best we’ve had so far, not just in Hoi An, but perhaps in all of Vietnam.
+![Banh Mi at Banh Mi Phuong restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-banh-mi-phuong-2023.jpg.webp)
+That episode of No Reservations made this restaurant internationally famous so you’ll never find Banh Mi Phuong without a long line of people waiting outside. But not to worry, they have an assembly line of people making sandwiches so it moves fairly quickly. 
+You can see a shot of Anthony digging into his banh mi above the OPEN sign in the picture below.
+![Banh Mi Phuong restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/banh-mi-phuong2.jpg.webp)
+#### Banh Mi Phuong
+**Address:** 2b Phan Chu Trinh, Cẩm Châu, Hoi An, Quảng Nam 560000, Vietnam  
+**Operating Hours:** 6:30AM-9:30PM, daily  
+**What to Order:** Banh mi
+### 2. Phi Banh Mi
+Phi Banh Mi has been open only since 2013 but judging from their perfect 5-star rating on TripAdvisor, they’ve already become a serious contender for the best banh mi in Hoi An.
+If it’s my first time eating at a restaurant, then I’ll always go for the special. I ordered this **Phi Special** made with cheese, egg, pork, pate, cucumber, pickles, herbs, and copious amounts of avocado. It was good – the bread was terrific – but I sort of wished I had ordered something simpler. There was too much avocado in this one and it was pretty much all I could taste.
+![Banh Mi at Phi Banh Mi restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/phi-banh-mi1.jpg.webp)
+[Phi Banh Mi](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d7706064-Reviews-Phi_Banh_Mi-Hoi_An_Quang_Nam_Province.html) is a TripAdvisor Certificate of Excellence awardee with a perfect 5-star rating, which is amazing considering they’ve amassed over 2,500 reviews. People clearly like this restaurant which is why I’ll be sure to order something else on our next visit.
+![Phi Banh Mi restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/phi-banh-mi2.jpg.webp)
+#### Phi Banh Mi
+**Address:** 88 Thái Phiên, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 8AM-8PM, daily  
+**What to Order:** Banh mi
+### 3. Madam Khanh – The Banh My Queen
+Madam Khanh, aka The Banh Mi Queen, is the second restaurant with a reputation for serving the best banh mi in Hoi An. I ordered the **mixed banh mi** with vegetables, pork, ham, pate, egg, pickles, and cucumber. You can have your banh mi spicy, medium spicy, or not spicy. I had mine spicy.
+Take a good look at the sauce on this banh mi. Aside from the bread, it’s what sets this sandwich apart. One bite sent me into pure banh mi bliss. This sandwich was phenomenal and a worthy rival to Banh Mi Phuong. It’s tough choosing between the two but I’d probably give the slight nod to Madam Khanh because of the sauce. It was spicy, savory, and a little sweet. It’s what made this sandwich really sing.
+![Banh Mi at Madam Khanh restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/madam-khanh-the-banh-my-queen1.jpg.webp)
+These twin torpedoes of deliciousness were from our most recent trip in 2023. One was filled with **thit nuong** (BBQ pork) while the other is their **mixed banh mi** (thap cam). This sandwich is just as life-changingly delicious as ever!
+![Banh Mi at Madam Khanh restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-madame-khanh-2023.jpg.webp)
+Like Banh Mi Phuong, [Madam Khanh](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d4308916-Reviews-Madam_Khanh_The_Banh_Mi_Queen-Hoi_An_Quang_Nam_Province.html) is popular so expect a packed restaurant when you visit. The good news is that banh mi is easy to eat so you can get it to go if the restaurant is full.
+![Madam Khanh restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/madam-khanh-the-banh-my-queen2.jpg.webp)
+#### Madam Khanh – The Banh Mi Queen
+**Address:** 115 Trần Cao Vân, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 6:30AM-7:30PM, daily  
+**What to Order:** Banh mi
+### 4. Com Ga Ba Buoi
+Com Ga Ba Buoi has been around since the 1950s and is one of the most popular restaurants to have chicken rice in Hoi An. And rightfully so – their com ga is delicious.
+Isn’t their presentation pretty? The red on the plates adds color to what would otherwise look like a plain and visually unappealing dish. But boring and bland this isn’t. The combination of flavors and textures is wonderful. It achieves a balance that I’ve come to expect from many Vietnamese dishes.
+I’ve had Singaporean chicken rice many times and one of the differences is that com ga is served with more stronger-tasting herbs like Vietnamese coriander and mint. This is presumably to help temper the richness of the rice which is cooked with the poached chicken broth. It’s also made with turmeric which is what gives it that lovely golden yellow color.
+![Com ga at Ba Buoi restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/com-ga-ba-buoi1.jpg.webp)
+Com Ga ba Buoi pairs their soft succulent shreds of chicken with a few cubes of congealed blood. If you’ve never had congealed chicken or pork blood before, it’s like a softer, less gritty version of liver. I’m drawn to dishes with lots of different textures which is one of the reasons why I enjoyed com ga so much.
+![Com ga at Ba Buoi restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/com-ga-ba-buoi2.jpg.webp)
+Of all the restaurants I’ve visited so far, [Com Ga ba Buoi](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d7973224-Reviews-Com_Ga_Ba_Buoi_Hoi_An-Hoi_An_Quang_Nam_Province.html) seems to be the most popular with tourists. It was packed when I was there for lunch. I didn’t have to wait to be seated but do expect to share crowded tables with other diners during peak hours.
+![Com Ga Ba Buoi restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/com-ga-ba-buoi3.jpg.webp)
+#### Com Ga Ba Buoi
+**Address:** 22 Phan Chu Trinh, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 10:30AM-2:30PM, 5-9PM, daily  
+**What to Order:** Com ga
+### 5. Com Ga Hien
+This was one of the restaurants I was most excited to visit in Hoi An, mainly because of its opening hours. They’re open only from 6PM to around 8:30PM everyday, which told me that it’s the type of restaurant visited mostly by locals, the kind you need to get to early before they run out of food.
+Com Ga Hien’s chicken rice was tasty as well but not as good as the previous two. I’m not exactly sure why, but it didn’t make me as wide-eyed as the other restaurants on this list. The rice felt heavier and there seemed to be less going on overall. They didn’t serve nearly as much offal and congealed blood either – just a few pieces in my soup and none on the rice.
+I read that tourists in Hoi An are often given a tamer version of com ga, because locals feel they’d be put off by the offal. I believe it because servers in [Hanoi restaurants](https://www.willflyforfood.net/hanoi-food-guide-25-must-eat-restaurants-street-food-stalls-in-hanoi-vietnam/) would often try to take my mam tom (Vietnamese shrimp paste) away. I always had to wrestle it back from them. I’m Asian dammit! I like the funky stuff! Ha!
+![Com ga at Com Ga Hien restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/com-ga-hien1.jpg.webp)
+One of the best and most surprising things about chicken rice is how soft and tender the shredded chicken pieces are. You can almost taste its juiciness just by looking at this picture. The poaching process makes it super tender and incredibly tasty.
+![Com ga at Com Ga Hien restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/com-ga-hien2.jpg.webp)
+[Com Ga Hien](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d15353986-Reviews-Com_Ga_Hien-Hoi_An_Quang_Nam_Province.html) isn’t located in the Ancient Town so you won’t find as many tourists here. As expected, this restaurant is exceedingly popular with locals. Perhaps this really is how com ga is supposed to be.
+![Com Ga Hien restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/com-ga-hien3.jpg.webp)
+#### Com Ga Hien
+**Address:** 593 Hai Ba Trung, Minh An, Hoi An 560000, Vietnam  
+**Operating Hours:** 6-8:30PM, daily  
+**What to Order:** Com ga
+### 6. Long Com Ga
+This was the best com ga I had in Hoi An. Com Ga Ba Buoi and Com Ga Nga are terrific but Long Com Ga gets the nod based on serving size, amount and variety of offal, overall flavor, and price. Just look at all that delicious offal and congealed blood on the plate. There’s even more in the soup.
+Long Com Ga’s version had perfectly cooked rice – soft and fluffy without being greasy – and the best balance of flavors and textures. On top of all the offal, they give you an immature chicken egg as well. Immature eggs are unlaid eggs which are harvested after the chicken is slaughtered. If you’ve never had it, it’s like a smooth, somewhat rubbery hard-boiled egg yolk.
+![Com ga at Long Com Ga restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/long-com-ga-chicken-rice1.jpg.webp)
+Feast your eyes on that juicy piece of chicken and cube of congealed blood! This was the first com ga restaurant I visited and the first bite made me regret not having it in 2017. What were we thinking?! 
+I was in chicken rice heaven the whole time I was eating this plate of com ga. The fluffiness of the rice, the softness of the chicken, the crunch of the onions, the snap of the offal, the freshness of the herbs – everything was just perfect.
+![Com ga at Long Com Ga restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/long-com-ga-chicken-rice2.jpg.webp)
+I wasn’t exaggerating when I said they give you even more offal in the soup. This small bowl of tasty chicken broth was swimming in offal. I’m not sure what organs these bits were from (gizzard, intestines?) but they were delicious and tasted very clean. Some had a mushroom-like softness like the congealed blood while others had more crunch and snap, like gizzard.
+![Com ga at Long Com Ga restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/long-com-ga-chicken-rice3.jpg.webp)
+We ate at Long Com Ga again in 2023 and I was happy to find that their chicken rice hasn’t taken a step back in quality. 
+Aside from my favorite com ga, we also got this char siu chicken rice plate. It’s made with barbecued chicken wings coated in a garlicky brown sauce. Yummers!
+![Chicken wings at Long Com Ga restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-long-com-ga-2023.jpg.webp)
+[Long Com Ga](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d8515462-Reviews-Long_Chicken_Rice-Hoi_An_Quang_Nam_Province.html) is hidden in an alley in the ancient town so it’s easy to miss. It’s definitely worth seeking out so you can refer to the [map](https://www.willflyforfood.net/hoi-an-food-guide/#location-map) at the bottom of this article to see exactly where it is. You won’t want to miss their com ga.
+![Long Com Ga restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/long-com-ga-chicken-rice4.jpg.webp)
+#### Long Com Ga
+**Address:** 16 Phan Chu Trinh, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 11AM-10PM, daily  
+**What to Order:** Com ga
+### 7. Com Ga Nga
+Before our trip in 2023, I asked a Vietnamese food Instagrammer for restaurant recommendations in Hoi An. One of the places she suggested was this chicken rice restaurant called Com Ga Nga. According to her, it’s a super famous com ga shop run by a Vietnamese cook who goes by the title “Madame Nga”.
+She recommended we get the chicken papaya salad, which we did, but I had to try their chicken rice as well. It was delicious and came with a generous amount of juicy white chicken breast and skin, and a bowl of chicken broth.
+![Com ga at Com Ga Nga restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-com-ga-nga1.jpg.webp)
+After this overflowing plate of chicken papaya salad was plopped down on our table, I understood why she recommended it so highly. It was served with a whole chicken leg, Vietnamese herbs, and a heaping amount of shredded papaya. 
+Good enough for two, this chicken papaya dalad was amazing and one of the best dishes we had on this most recent trip to Hoi An.
+![Chicken papaya salad at Com Ga Nga restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-com-ga-nga2.jpg.webp)
+Com Ga Nga is located on the same block as Banh Mi Phuong. The food here was delicious but also quite expensive, around 1.5 times more than the other com ga restaurants we visited. They do give you generous portions but some people might find their prices to be a bit steep.
+![Com Ga Nga restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-com-ga-nga3.jpg.webp)
+#### Com Ga Nga
+**Address:** 8 Phan Chu Trinh, Cẩm Châu, Hội An, Quảng Nam, Vietnam  
+**Operating Hours:** 11AM-10PM, daily  
+**What to Order:** Com ga, chicken papaya salad
+### 8. Huong’s Chicken Rice
+This chicken rice stall was also recommended to us by the Vietnamese Instagrammer. An unassuming street food stall that opens only at night, it’s a good option for people wanting to try com ga without having to pay too much for it.
+This stall’s chicken rice was good but the amount of chicken was a bit lacking, plus they didn’t give me my beloved bowl of innards. Boo.
+![Com ga at Huong's Chicken Rice in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-huongs-chicken-rice1.jpg.webp)
+This chicken papaya salad was better. You can’t really tell from this picture but it comes with a good amount of juicy dark chicken meat.
+![Chicken papaya salad at Huong's Chicken Rice in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-huongs-chicken-rice2.jpg.webp)
+At the time of our visit, Huong’s chicken papaya salad was about half the price as Com Ga Nga’s. This dish can be expensive (at least relatively) so this evening-only stall is a great place to try it.
+![Chicken papaya salad at Huong's Chicken Rice in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-huongs-chicken-rice3.jpg.webp)
+Huong’s Chicken Rice is located along Le Loi Street, at the entrance to Sica Alleyway. You can refer to our [location map](https://www.willflyforfood.net/hoi-an-food-guide/#location-map) to see exactly where it is.
+![Huong's Chicken Rice in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-huongs-chicken-rice4.jpg.webp)
+#### Huong’s Chicken Rice
+**Address:** 56 Lê Lợi, Phường Minh An, Hội An, Quảng Nam, Vietnam  
+**Operating Hours:** 4:30-10PM, daily  
+**What to Order:** Com ga, chicken papaya salad
+### 9. Cao Lau Khong Gian Xanh
+It was tough to choose, but this was probably the best cao lau I had in Hoi An. As described, they were all good so I’m basing that more on overall experience and value for money. The cao lau portions at the Khong Gian Xanh restaurant seemed bigger than the rest, with thicker and fattier cuts of roast pork.
+![Cao lau at Khong Gian Xanh restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/cao-lau-khong-gian-xanh1.jpg.webp)
+Here’s a closer look at the fatty slices of roast pork and those deliciously chewy cao lau noodles. Chewy, crunchy, soft, smokey, fatty – the contrast in taste and texture in a bowl of cao lau noodles is to die for.
+![Slice of grilled pork at Khong Gian Xanh restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/cao-lau-khong-gian-xanh2.jpg.webp)
+Aside from its value, I enjoyed the ambiance at [Cao Lau Khong Gian Xanh](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d10044173-Reviews-Cao_Lau_Khong_Gian_Xanh-Hoi_An_Quang_Nam_Province.html) as well. It’s located in a busy alley in the ancient town but it’s easy to miss. We walked by it many times in 2017 without giving it a second glance. It’s a simple restaurant set within a semi-open space with lots of trees and paper lanterns.
+![Cao Lau Khong Gian Xanh restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/cao-lau-khong-gian-xanh3.jpg.webp)
+#### Cao Lau Khong Gian Xanh
+**Address:** 687 Hai Bà Trưng, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 9:30AM-9PM, daily  
+**What to Order:** Cao lau
+### 10. Cao Lau Thanh
+Like Com Ga Hien, I think Cao Lau Thanh is one of those very local restaurants that stays open only until its food runs out. 
+I went to this restaurant twice, the first time around noon but the place was already closed. I’m not sure if they were just closed that day or had already run out of food, but I made sure to come back the following morning when they opened at 7AM. 
+The restaurant was already teeming with locals by then but thankfully, I was able to score this beautiful bowl of cao lau.
+![Cao lau at Cao Lau Thanh restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/cao-lau-thanh1.jpg.webp)
+This restaurant only serves cao lau so you know they make it well. But as delicious as it was, it had this funky, somewhat off-putting fishy taste that I didn’t like. I couldn’t put my finger on it then but I’d later find out that the fishy taste was from an herb called fish wort. It’s one of many fresh herbs often served as a side to Vietnamese dishes.
+Also known as fish leaf or fish mint, it’s a pungent herb that tastes similar to what it’s named after – fish. Just be aware of it should you get a taste of something herby and fishy in your cao lau or in any other dish in Vietnam.
+![Slice of grilled pork at Cao Lau Thanh restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/cao-lau-thanh2.jpg.webp)
+[Cao Lau Thanh](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d12913336-Reviews-Cao_Lau_Thanh-Hoi_An_Quang_Nam_Province.html) is little more than a street food cart with metal tables and stools in a garage-type restaurant. They open at 7AM so come early if you can.
+![Cao Lau Thanh restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/cao-lau-thanh3.jpg.webp)
+#### Cao Lau Thanh
+**Address:** 26 Thái Phiên, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 7AM-7PM, daily  
+**What to Order:** Cao lau
+### 11. Morning Glory
+Morning Glory is one of the nicest restaurants on this list. Located in a prime spot in the heart of the ancient town, it’s one of the most popular restaurants in Hoi An. It’s owned by celebrity chef, restaurateur, and cookbook author Ms. Trinh Diem Vy who’s credited for creating the cooking course that launched all Hoi An cooking schools.
+We ate here in 2017 and had two Vietnamese dishes, the first being this beautiful bowl of cao lau. It was absolutely delicious and one of the best versions of cao lau I’ve had in Hoi An. 
+However, it’s also very expensive, more than double the price of any other restaurant on this list. Morning Glory is a more upscale restaurant in a prime spot so you aren’t just paying for cao lau, you’re also paying for the ambiance.
+![Cao lau at Morning Glory restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/morning-glory1.jpg.webp)
+Morning Glory is known for many Vietnamese dishes, not just cao lau, so you may want to eat here if you’re looking for a nicer restaurant in Hoi An.
+![Cao lau at Morning Glory restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/morning-glory2.jpg.webp)
+The second dish we ordered was **banh xeo** , a crispy crepe made with fried rice flour batter filled with pork belly, shrimp, and bean sprouts. Its name literally means “sizzling cake” because of the sound it makes when the rice batter is poured into the hot skillet.
+![Banh xeo at Morning Glory restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/morning-glory3.jpg.webp)
+To eat, you wrap pieces of banh xeo with fresh greens in rice paper before dipping into the nuoc mam sauce (Vietnamese fish sauce). Crunchy, savory, sweet, and tasting of fresh herbs, banh xeo is another popular dish and a must-try in Hoi An. It was one of the Vietnamese dishes we learned to make at [Thuan Tinh Island Cooking School](https://www.willflyforfood.net/get-a-taste-of-the-real-hoi-an-with-a-thuan-tinh-island-cooking-class/).
+![Banh xeo at Morning Glory restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/morning-glory4.jpg.webp)
+I was a little apprehensive when I first saw [Morning Glory](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d1487249-Reviews-Morning_Glory_Restaurant-Hoi_An_Quang_Nam_Province.html). It looked like the type of restaurant we try to avoid on trips. It’s in a big beautiful heritage house right in the heart of a tourist hotspot. 
+That usually meant two things: A) it’s pricey; and B) the restaurant caters to tourists so the food isn’t authentic. I’m not an expert but in my opinion, only the first is true.
+When I was taking pictures of the restaurant’s interior, I remember thinking that it looked like the venue for a cooking school. As it turns out, it was. This space was once home to Ms. Vy’s pioneering Morning Glory Cooking School which has since relocated to An Hoi islet.
+![Morning Glory restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/morning-glory5.jpg.webp)
+#### Morning Glory
+**Address:** 106 Nguyễn Thái Học, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 10AM-11PM, daily  
+**What to Order:** Cao lau, banh xeo
+### 12. Quan An Ty Ty
+Quan An Ty Ty is another of those hidden in plain slight restaurants. Located at the end of an alley in the ancient town, they’re known for a few dishes including cao lau.
+![Cao lau at Ty Cao Lauy restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/ty-ty-cao-lau1.jpg.webp)
+The cao lau at Quan An Ty Ty was good but the slices of cha siu pork seemed thinner and not as fatty as the other restaurants. Not the best I had but still a solid bowl of cao lau.
+![Slice of grilled pork at Ty Cao Lau restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/ty-ty-cao-lau2.jpg.webp)
+[Quan An Ty Ty](https://www.google.com/maps/place/Quan+an+Ty+Ty+Cau+Lau/@15.8776494,108.3244503,17z/data=!3m1!4b1!4m6!3m5!1s0x31420e7e9cb69cf7:0x13cd4ea00101b855!8m2!3d15.8776443!4d108.3270252!16s%2Fg%2F11j00s95xt) is located at the end of this alley. With all the more prominent restaurants and cafes in the ancient town, it’s easy to walk by it without noticing it’s even there, which may be a good thing for people looking for a quieter, less touristy dining experience.
+![Entrance to Ty Cao Lau restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/ty-ty-cao-lau3.jpg.webp)
+#### Quan An Ty Ty
+**Address:** 17/6 Hai Bà Trưng, Phường Minh An, Ninh Kiều, Hoi An, Vietnam  
+**Operating Hours:** 8AM-11PM, daily  
+**What to Order:** Cao lau
+### 13. Cao Lau Ba Dinh
+My search for the best cao lau in 2023 took us to this humble stall – Ba Dinh. A true street food stall, they offer just four dishes on their menu – cao lau, mi quang, bun thit nuong, and thit xien nuong (grilled meat skewers).
+Pictured below is their signature bowl of cao lau. Ba Dinh may be a humble street food stall but their cao lau is delicious and every bit as worthy of your attention as the other restaurants on this list.
+![Cao lau at Ba Dinh in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-cao-lau-ba-dinh1.jpg.webp)
+Bun thit nuong is one of our favorite Vietnamese dishes. Saigon-style bun thit nuong is the best but the central Vietnamese version isn’t bad either. We’ve had it in Hoi An and Da Nang.
+In our experience, central Vietnamese bun thit nuong isn’t served with cha gio (deep-fried spring roll) and the meat is coated in a sweet-savory brown sauce.
+![Bun thit nuong at Ba Dinh in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-cao-lau-ba-dinh2.jpg.webp)
+Cao Lau Ba Dinh is located near the mouth of this alleyway just off popular Tran Phu Street. You can refer to our [map](https://www.willflyforfood.net/hoi-an-food-guide/#location-map) for its exact location.
+![Cao Lau Ba Dinh in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-cao-lau-ba-dinh3.jpg.webp)
+#### Cao Lau Ba Dinh
+**Address:** 138 Trần Phú, Phường Minh An, Hội An, Quảng Nam, Vietnam  
+**Operating Hours:** 8:30AM-9PM, daily  
+**What to Order:** Cao lau
+### 14. My Quang Bich
+If you’re feeling adventurous and want to go beyond the Ancient Town, then you may want to check out this restaurant. Located about 2.5 km west of the Ancient Town, My Quang Bich is a restaurant known for their cao lau and mi quang. 
+We borrowed bicycles from our hotel and rode out to this restaurant one afternoon to try both. They were terrific and well worth the effort.
+![Cao lau at My Quang Bich restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/mi-quang-bich3.jpg.webp)
+The owner of the restaurant seemed genuinely thrilled to have foreigners eating at his place. Because of its location, I don’t imagine it getting a lot of foreign tourists. He couldn’t speak any English so he took out his iPad and proudly showed us all the positive reviews he’s received on TripAdvisor and Google. Well deserved!
+![Cao lau noodles at My Quang Bich restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/mi-quang-bich4.jpg.webp)
+As you can tell from its name, My Quang Bich is just as known for its mi quang as it is for its cao lau. We had both when we went and while I preferred cao lau, Ren enjoyed mi quang more. Both are excellent Vietnamese dishes so it’s really a matter of personal preference.
+![Bowls of Vietnamese food at My Quang Bich restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/mi-quang-bich1.jpg.webp)
+Like cao lau, mi quang noodles are nice and chewy. They seem to be served with more fresh herbs so it feels like you’re having noodle soup and a salad all at once.
+![Mi quang noodles at My Quang Bich restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/mi-quang-bich2.jpg.webp)
+It’s nice to get out of the Ancient Town once in a while so if you can rent a bicycle, then you may want to enjoy a meal at [My Quang Bich](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d13307414-Reviews-My_Quang_Cao_Lau_Bich-Hoi_An_Quang_Nam_Province.html). The restaurant fronts the river making it a pleasant place to have lunch. Being so far away from the touristy areas of Hoi An, you know this restaurant is the real deal.
+![My Quang Bich restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/mi-quang-bich5.jpg.webp)
+#### My Quang Bich
+**Address:** 272 Hùng Vương, Thanh Hà, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 6:30-8PM, Mon-Sat / 6:30-8:30PM, Sun  
+**What to Order:** Cao lau, mi quang
+### 15. Pho Xua
+Pho Xua is another popular restaurant in the ancient town. Like the Morning Glory restaurant, it doesn’t specialize in any one dish but is instead known for many Vietnamese dishes like pho, nem ran, fried wontons, and mi quang. If you’re looking for a highly-regarded restaurant with a wider menu, then Pho Xua is a great place to go.
+Pictured below is their version of mi quang topped with shredded chicken, crushed peanuts, fried shallots, and banh da nuong which is grilled rice paper with sesame seeds.
+![Mi quang at Pho Xua restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/pho-xua1.jpg.webp)
+Delicious chewy mi quang noodles with fresh herbs and chili in a robust, flavorful broth. There are many reasons to visit Hoi An, none more enticing perhaps than its regional Vietnamese food.
+![Mi quang noodles at Pho Xua restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/pho-xua2.jpg.webp)
+[Pho Xua](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d2718128-Reviews-Pho_Xua-Hoi_An_Quang_Nam_Province.html) is a TripAdvisor Certificate of Excellence awardee that maintains a stellar 4.5-star rating even after over a thousand reviews. If you want to try many different dishes in one restaurant, then this is a good place to go in Hoi An.
+![Pho Xua restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/pho-xua3.jpg.webp)
+#### Pho Xua
+**Address:** 35 Phan Chu Trinh, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 10AM-8:45PM, daily  
+**What to Order:** Mi quang
+### 16. Ong Hai (Mr. Hai)
+This was the best bowl of mi quang I had in Hoi An. Ong Hai serves just two dishes – cao lau and mi quang – but we had just finished a bowl of cao lau at Morning Glory so we only tried the mi quang here. As delicious as it turned out to be, I wish we had tried the cao lau as well.
+Ong Hai tops their mi quang with shrimp, roasted peanuts, keropek, quail egg, and slices of roast pork. Do you see those orange bits? I’m not sure what they were but they packed loads of flavor and would stain the rice noodles orange. Shrimp paste with garlic perhaps? I don’t know but it was delicious.
+![Mi quang at Ong Hai restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/ong-hai1.jpg.webp)
+See what I mean? Mix up all the ingredients and your mi quang noodles turn into this tasty shade of orange. I prefer cao lau but looking at this picture is making me yearn for this bowl of mi quang all over again.
+![Mi quang noodles at Ong Hai restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/ong-hai2.jpg.webp)
+[Ong Hai](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d10205170-Reviews-or20-Ong_Hai_Mr_Hai_Restaurant-Hoi_An_Quang_Nam_Province.html) is located just outside the ancient town. Do give them a try if you’re looking for some of the best mi quang in Hoi An.
+![Ong Hai restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/ong-hai3.jpg.webp)
+#### Ong Hai (Mr. Hai)
+**Address:** 6A Trương Minh Lượng, Cẩm Châu, Hoi An, Quảng Nam 560000, Vietnam  
+**Operating Hours:** 11AM-10PM, daily  
+**What to Order:** Mi quang
+### 17. Hoa Hien
+We’re partial to street-food-type eateries but if you’re looking for a proper restaurant meal in Hoi An – one that’s far removed from the touristy restaurant scene in the Ancient Town but still reachable on foot – then you should definitely visit Hoa Hien. It’s a lovely Vietnamese restaurant that offers equally terrific but much quieter views of the Thu Bon River.
+Hoa Hien offers an extensive menu of Vietnamese dishes and regional specialties. We started with this incredibly delicious appetizer of **ram tom cuon** or fried spring rolls with shrimp. These spring rolls are made with a net-like wrapper that’s so delicate it practically crumbles by itself between your teeth.
+![Spring rolls at Hoa Hien restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-hoa-hien1.jpg.webp)
+Hoa Hien was highly recommended to us by the same Vietnamese Instagrammer mentioned several times in this guide. She recommended we get the **com am phu**. It’s an interesting and delicious Hue specialty made with rice and a plethora of different ingredients like slivers of egg, pork, shrimp, and vegetables.
+Aside from being very tasty, _com am phu_ is an interesting dish whose name translates to something like “purgatory rice” or “underworld rice”. There are several theories behind the dish’s name but it was likely invented by a Hue restaurant of the same name – [Quan Com Am Phu](https://saigoneer.com/saigon-food-culture/12255-c%C6%A1m-%C3%A2m-ph%E1%BB%A7-hue%E2%80%99s-%E2%80%98purgatory-rice%E2%80%99-that-tastes-like-heaven). 
+Open through the night in the city’s entertainment district, the restaurant became a popular hangout for prostitutes, gamblers, and other late-night characters. Their signature dish and precursor to this one was a simpler version of what you see today.
+![Com am phu at Hoa Hien restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-hoa-hien2.jpg.webp)
+Street-food-type eateries will always be my preference but I absolutely loved [Hoa Hien restaurant](https://www.kqzyfj.com/click-7816338-11552042?url=https%3A%2F%2Fwww.tripadvisor.com%2FRestaurant_Review-g298082-d10152024-Reviews-Hoa_Hien_Restaurant-Hoi_An_Quang_Nam_Province.html). It’s about a 15-20 minute walk east of the Ancient Town market so it’s best to ride there on bikes. That’s what we did.
+![Hoa Hien restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-hoa-hien3.jpg.webp)
+Central Hoi An is inundated with lovely but touristy restaurants so I was happy to learn about Hoa Hien (thank you [ThuThao Le](https://www.instagram.com/thaothao_blog/)!). I suggest coming here for dinner, right before sunset. Keep scrolling to see why.
+![Hoa Hien restaurant interior in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-hoa-hien4.jpg.webp)
+Hoa Hien is a big restaurant with a gorgeous traditional interior. I do recommend sitting outside though.
+![Hoa Hien restaurant interior in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-hoa-hien5.jpg.webp)
+We were sitting on the open-air patio but if you come right before sundown, then you may want to sit at one their riverside tables. Drinking coffee or cocktails or enjoying a meal by the Thu Bon River is one of the best things you can do in Hoi An. However, you’re constantly jockeying for position with hundreds of other tourists wanting to do the same thing!
+In this part of town, it’ll be just you, a relaxing river view, and the most delicious plate of com tam phu.
+![Hoa Hien restaurant outdoor seating in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-hoa-hien6.jpg.webp)
+#### Hoa Hien
+**Address:** 33 Trần Quang Khải, Cẩm Châu, Hội An, Quảng Nam, Vietnam  
+**Operating Hours:** 9AM-8:30PM, Mon-Fri / 9AM-9PM, Sat-Sun  
+**What to Order:** Com am phu
+### 18. White Rose Restaurant
+White Rose Restaurant is a Hoi An institution. They’re known for a dish which they invented and popularized called **white rose dumplings** (banh bao banh vac). It’s just one of two dishes they offer on their menu. Like cao lau and mi quang, white rose dumplings are unique to the region and another must-try in Hoi An.
+As you can see below, white rose dumplings are made with translucent white dough filled with spiced minced shrimp or pork that’s been bunched up to resemble flowers, hence the English name. They’re topped with crispy fried shallots and served with a special dipping sauce made with shrimp broth, chilies, lemon, and sugar.
+When you take a bite, the first thing you’ll notice is the firmer and chewier skin. I read that the dough for white rose dumplings is made with water drawn from the Ba Le well. It’s the same alkaline water used to make cao lau noodles so that may have something to do with its chewier texture. The water is filtered and purified 15-20 times before being mixed with the rice paste to form the airy dough.
+![White rose dumplings at the White Rose Restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/white-rose-restaurant1.jpg.webp)
+The second dish they offer are these **fried wontons** aka “Hoi An pizza”. They’re large tortilla-shaped wontons topped with shrimp, vegetables, herbs, and a tomato sauce. The wontons are crisp but very light and the sauce tomatoe-y, tangy, and a little sweet. They’re good, though not as interesting perhaps as the white rose dumplings.
+![Fried wontons at White Rose Restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/white-rose-restaurant2.jpg.webp)
+White Rose Restaurant is about a 10-15 minute walk from the ancient town. However, white rose dumplings are available in other restaurants as well, even at the prepared Vietnamese food stalls inside the central market.
+When I first saw them at the market, I assumed they were knockoffs at first but nearly all white rose dumplings sold in Hoi An are actually supplied by this restaurant. It’s a top secret family recipe created by the grandfather of the restaurant’s present owner, Mr. Tran Tuan Ngai. It’s been passed down for three generations so no one outside the family knows how to make them.
+![White Rose Restaurant restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/white-rose-restaurant3.jpg.webp)
+#### White Rose Restaurant
+**Address:** 533 Hai Bà Trưng, Phường Cẩm Phổ, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 7AM-8:30PM, daily  
+**What to Order:** White rose dumplings, fried wontons
+### 19. Bale Well Restaurant
+Bale Well is one of Hoi An’s most famous restaurants. They’re known for these **all-you-can-eat** spreads featuring skewered barbecued meat, cha gio (spring rolls), banh xeo, and vegetables. We weren’t sure what to make of this restaurant at first because people seemed to either love it or hate it based on their reviews. After eating here, I finally understood why.
+Within minutes of sitting down, this deluge of food came rushing to our table. There’s no ala carte menu here. Everyone eats the same thing.
+Some people didn’t seem to mind the restaurant’s aggressiveness but others hated it. I can’t say I blame them because they were practically shoving food down your throat. It was almost like they wanted to get that first bite of food into your mouth so you didn’t have time to change your mind and leave. 
+It was a little off-putting, and had we not expected it, I probably would have been bothered by it too.
+![Vietnamese food at Bale Well Restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/bale-well2.jpg.webp)
+On the positive side, this restaurant does serve you a LOT of food. Just look at that spread! 
+They give you so much to begin with already but if for some reason this initial serving isn’t enough, then you can still ask for more. You’ll get two types of skewered pork – **nem nuong** (grilled pork meatballs) and **thịt nuong** (grilled pork).
+![Vietnamese food spread at Bale Well Restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/bale-well1.jpg.webp)
+Soon as all the components have been laid out on your table, your server will start assembling one to show you how it’s done. 
+You take a stick of pork and spring roll and put it on a sheet of Vietnamese rice paper. You then top it with fresh greens and a few spoonfuls of sauce before rolling it up to eat. You basically eat it in the same way that you would banh xeo.
+To be honest, the food at this restaurant isn’t great. Much of it actually seemed like it had been precooked and sitting out for some time waiting for customers. The quality of the food is average but they do give you great value for your money. 
+If you’re a big eater and aren’t overly concerned about finding the best, then you’re going to enjoy Bale Well restaurant.
+![Grilled pork at Bale Well Restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/bale-well3.jpg.webp)
+[Bale Well Restaurant](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d1597035-Reviews-Bale_Well-Hoi_An_Quang_Nam_Province.html) is tucked away in an alley off Phan Chau Trinh so it can be hard to find. But if you’re anywhere near this alley, then chances are you’ll spot barkers trying to get people to eat at this restaurant. That aggression is largely what fuels the negative reviews.
+![Bale Well Restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/bale-well4.jpg.webp)
+#### Bale Well Restaurant
+**Address:** 45 Ngõ 51 Trần Hưng Đạo, Phường Minh An, Hoi An, Quảng Nam 550000, Vietnam  
+**Operating Hours:** 10:30AM-10PM, daily  
+**What to Order:** Set menu
+### 20. Pho May
+Like banh mi, [pho](https://www.willflyforfood.net/vietnam-pho-the-quintessential-vietnamese-food-recipe/) is a Vietnamese national dish and one of the most popular foods in the country. Personally, it isn’t my favorite noodle dish in Vietnam (that distinction goes to bun bo hue) but I’ll never say no to a good bowl of pho.
+If you’re jonesing for pho in Hoi An, then Pho May on An Hoi island is a great place to go. Pictured below is a bowl of the restaurant’s signature **spicy beef pho**.
+![Pho at Pho May restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-pho-may2.jpg.webp)
+If you like offal, then you need to try this. Called **pho long bo** , it’s a version of beef pho made with intestines. Serious yum!
+![Pho at Pho May restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-pho-may3.jpg.webp)
+Fritters and other deep-fried appetizers go well with Vietnamese noodle dishes so we shared this platter of **shrimp and pork spring rolls**. Made with a similar wrapper as the spring rolls at Hoa Hien, they were absolutely delicious as well.
+![Shrimp rolls at Pho May restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-pho-may1.jpg.webp)
+Pho May is located in the center of An Hoi Island, home of Hoi an’s nightly market. It’s a good place to have dinner before eating more at the night market.
+![Pho May restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-pho-may4.jpg.webp)
+#### Pho May
+**Address:** 84 Nguyễn Phúc Tần, Phường Minh An, Hội An, Quảng Nam 51300, Vietnam  
+**Operating Hours:** 10AM-9:30PM, daily  
+**What to Order:** Pho
+### 21. Bun Dau Mam Tom Dau Bac
+This is perhaps the most polarizing dish on this list. **Bun dau mam tom** is a platter of bunched up rice noodles, deep-fried tofu, sliced cucumber, and fresh herbs. If you get the version with meat, then you can expect things like fish balls and steamed pork as well. Seems innocuous enough right?
+What makes bun dau mam tom off-putting for many is the dipping sauce. Known as mam tom, it’s a sauce made with finely crushed shrimp or krill that’s been fermented for weeks. 
+We’re used to the sauce’s flavor because we have something similar in [the Philippines](https://www.willflyforfood.net/food-in-the-philippines/) called _bagoong_ , but if you aren’t as adventurous with food or have a sensitive nose, then you may want to skip this one. It’s EXTREMELY pungent.
+![Tray of Vietnamese food at Dau Bac restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/bun-dao-mam-tom1.jpg.webp)
+If you’re afraid of the mam tom, then perhaps you can enjoy the rice noodles and other components on their own. I do suggest giving it a try though because I’m pretty sure you’ve never had anything that tastes quite like it. 
+Mam tom is definitely an acquired taste, even for some locals. But once you develop a taste for it, then it’s something you’ll look for again and again.
+![Bun Dau Mam Tom at Dau Bac restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/bun-dao-mam-tom2.jpg.webp)
+If you’re feeling daring in Hoi An and want to try bun dau mam tom, then you can do so at [Quan Dau Bac](http://www.anrdoezrs.net/links/7816338/type/dlg/https://www.tripadvisor.com.ph/Restaurant_Review-g298082-d6708859-Reviews-Bun_Dau_Mam_Tom_Dau_Bac-Hoi_An_Quang_Nam_Province.html).
+![Dau Bac restaurant exterior in Cam Pho Ward, Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/bun-dao-mam-tom3.jpg.webp)
+#### Bun Dau Mam Tom Dau Bac
+**Address:** 71 Dao Duy Tu, Cam Pho Ward, Hoi An 560000, Vietnam  
+**Operating Hours:** 2-10PM, daily  
+**What to Order:** Bun dau mam tom
+### 22. Moi – BBQ & Hot Pot
+This open-air BBQ and hot pot restaurant was near my hotel. I’d walk by it every night and get a whiff of the delicious smells wafting from everyone’s tableside grills. Even with a full stomach, it would make me stop and look at the menu, planning on when I could fit this in to my already full Vietnamese food itinerary.
+I decided to eat here on my last night in Hoi An. Moi offers **hot pot** and **BBQ**. I had been enticed to this restaurant by the smells of meat and seafood cooking on charcoal grills so I went with the BBQ. 
+I asked my server for recommendations and I whittled down her suggestions to this platter of seafood, enoki mushrooms wrapped in beef, and an appetizer of stir-fried water spinach.
+![BBQ at Moi restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/moi1.jpg.webp)
+The seafood platter I chose had squid, octopus, and shrimp. They were fresh and swimming in a tasty, mildly spicy marinade.
+![Grilling seafood at Moi restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/moi2.jpg.webp)
+The seafood was nice but the beef-wrapped enoki mushrooms were great. I think they use the same marinade for all their grilled dishes.
+The few dishes I had were good but what I really liked about Moi was the environment. It was fun sitting outside and grilling my own food while drinking bottle after bottle of Vietnamese beer. 
+Grilled food makes for great bar chow so if you’re traveling to Hoi An in a group, then this is a great restaurant to have dinner and a few drinks.
+![Grilling Vietnamese food at Moi restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/moi3.jpg.webp)
+[Moi](https://www.google.com/maps/place/M%E1%BB%8Di+-+BBQ+%26+Hot+Pot/@15.8753959,108.320659,15z/data=!4m5!3m4!1s0x0:0x25da2796f4f0991e!8m2!3d15.8753959!4d108.320659) seems to be very popular with the locals. It was packed with people every night I walked by. It was loud and everyone looked like they were having fun. The restaurant isn’t in a touristy part of town so you won’t find many foreigners here.
+![Moi – BBQ & Hot Pot restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/moi4.jpg.webp)
+#### Moi – BBQ & Hot Pot
+**Address:** 55 18 Tháng 8, Phường Minh An, Hoi An, Quảng Nam, Vietnam  
+**Operating Hours:** 3:30-11PM, daily  
+**What to Order:** BBQ, hot pot
+### 23. Quan Ben Tre
+We spent a day exploring Cam Nam Island. You can get there on foot or by bicycle via Cam Nam Bridge which is near the central market. We wanted to have lunch on the island and our research led us to this restaurant – Quan Ben Tre. They offer a few Hoi An specialties like cao lau, banh dap, and hen tron.
+Pictured below is the **hen tron** which is a minced baby clam salad. Clams are boiled then fried with different vegetables and other ingredients like onion, pepper, chili, ginger, and peanuts. They’re typically served with rice crackers that are used to ladle the dish in bite-sized portions.
+Hen or baby clams seems to be a popular food item in central Vietnam as I often had it in [Hue](https://www.willflyforfood.net/hue-food-guide/) as well.
+![Hen tron at Quan Ben Tre restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/ben-tre1.jpg.webp)
+This is **banh dap** or smashing rice paper. I wondered why it’s called “smashing rice paper”, but then our server answered that question for me without saying a word. 
+After setting it down on our table, he made it crack by pressing down on it with his open palm. It wasn’t a faint crack either. It was a surprisingly loud audible CRACK!
+Sandwiched between two sheets of crisp rice cracker is a sticky, steamed rice pancake. The dish is called “smashing rice paper” because you need to press down on the layers to bind them together, which is what our server did. You then break pieces off to eat. Crunchy, chewy, and a little sweet, I really enjoyed its taste and texture.
+![Banh dap at Quan Ben Tre restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/ben-tre3.jpg.webp)
+You’re meant to eat the hen tron with plain rice crackers but I wanted to try it with the banh dap. I topped a piece with some hen tron, chili, and fish sauce. They went very well together. The clams were briny and paired nicely with the sweet, gooey, crunchy rice cracker.
+![Hen tron at Quan Ben Tre restaurant in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/ben-tre2.jpg.webp)
+From Hoi An’s central market, it took us about half an hour to walk to [Quan Ben Tre](https://www.google.com/maps/place/Qu%C3%A1n+B%E1%BA%BFn+Tre/@15.8716315,108.3341821,15z/data=!4m5!3m4!1s0x0:0xcda39697e6ead97f!8m2!3d15.8716315!4d108.3341821). Cam Nam Island is a great place to explore on bicycle so if you have access to a bike, then it’s best to ride to the restaurant instead.
+![Quan Ben Tre restaurant exterior in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/ben-tre4.jpg.webp)
+#### Quan Ben Tre
+**Address:** Xuyen Trung, Cam Nam, Hoi An, Vietnam  
+**Operating Hours:** 8AM-10PM, daily  
+**What to Order:** Hen tron, banh dap
+### 24. Com Tam Moc
+**Com tam suon nuong** is one of our favorite Vietnamese dishes. It refers to broken rice served with a grilled pork chop. We weren’t planning on having it in Hoi An but the Vietnamese Instagrammer recommended Com Tam Moc to us. Of course, we had to go.
+This restaurant serves their com tam suon nuong with a fried egg and pickled vegetables. Add a generous amount of nuoc cham and you’ll be doing the happy dance for the next ten minutes.
+![Com tam at Moc restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-com-tam-moc1.jpg.webp)
+Aside from their delicious pork chop and broken rice, what I liked most about Com Tam Moc is that it’s located in a more residential part of Hoi An, far removed from the touristy shops and restaurants of the Ancient Town. A local favorite, enjoy a com tam suon nuong lunch and there’s a good chance you’ll be the only foreigner there.
+![Com tam Moc restaurant in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2023/03/hoi-an-restaurants-com-tam-moc2.jpg.webp)
+#### Com Tam Moc
+**Address:** Sau Lưng Blue shop, 210A Lý Thường Kiệt, Sơn Phong, Hội An, Quảng Nam, Vietnam  
+**Operating Hours:** 10AM-11:30PM, daily  
+**What to Order:** Com tam
+### 25. Aunt Bay’s Banh Beo
+Aunt Bay is a street food vendor who sells just one thing – **banh beo**. It refers to small steamed rice cakes topped with savory ingredients like dried or fresh shrimp, scallions, roasted peanuts, mung bean paste, fried shallots, and fish sauce. Though more commonly associated with [Hue](https://www.willflyforfood.net/hue-travel-guide/), you can find them in Hoi An as well.
+I was excited to try banh beo because they sounded similar to Singaporean chwee kueh. Like chwee kueh, they were soft and silky and loaded with umami, though not as intensely flavorful. They’re interesting and very tasty and another dish you should definitely have in Hoi An if you don’t plan on going to [Hue](https://www.willflyforfood.net/best-things-to-do-in-hue-vietnam/).
+![Trays of Vietnamese food in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/aunt-bay-banh-beo1.jpg.webp)
+Toppings can vary and Aunt Bay tops hers with an orange shrimp-and-pork-based sauce containing bits of local river shrimp, fried shallots, chopped chilies, and deep-fried cao lau noodles. Yum!
+![Banh beo at a street food stall in Hoi An, Vietnam](https://www.willflyforfood.net/wp-content/uploads/2019/12/aunt-bay-banh-beo2.jpg.webp)
+There are several street food vendors in Hoi An known for their banh beo. Aunt Bay’s stall is located at the corner of the old wall on Hoàng Văn Thụ. She sets up and starts selling her banh beo at around 3PM. Just look for this nice lady and her sign against the orange wall that reads “Ba Bay, Banh Beo, Banh Nam”.
+![Aunt Bay, a street food vendor in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2019/12/aunt-bay-banh-beo3.jpg.webp)
+#### Aunt Bay’s Banh Beo
+**Address:** Corner of the old wall on Hoàng Văn Thụ, Hoi An, Vietnam  
+**Operating Hours:** Starts at around 3PM  
+**What to Order:** Banh beo
+## HOI AN RESTAURANTS LOCATION MAP
+To help you find these street food stalls and restaurants in Hoi An, I’ve pinned them all on this map. Click on the link to open a [live version](https://www.google.com/maps/d/u/0/viewer?mid=1Sa-cGdMFKBaxQLcHkpWD60zLdLXWK0Lf&ll=15.877302678510489%2C108.3212889&z=15) of the map in a new window.
+![Map with pins of restaurants in Hoi An](https://www.willflyforfood.net/wp-content/uploads/2022/04/hoi-an-restaurants.jpg.webp)
+## FINAL THOUGHTS ON THE BEST RESTAURANTS IN HOI AN
+This Hoi An food guide started with 9 restaurants. Three trips and several years later and it’s almost tripled to 25. 25 is as high as I’ll go so I’ll continue to refine this guide after every trip to Hoi An.
+I’m proud of this list but I still don’t feel I’ve delved deeply enough into Hoi An’s cuisine which is one of the most colorful and delicious in Vietnam. I feel there’s still so much good Vietnamese food to be discovered here so we’ll definitely be back.
+If you’re traveling to Hoi An and it’s important for you to find the best local food experiences, then I hope this Vietnamese food guide puts you on the right track. 
+Thanks for reading and have an amazing time exploring the many delicious restaurants in Hoi An!
+### Disclosure
+This article on the best restaurants in Hoi An contains affiliate links, meaning we’ll earn a small commission if you make a purchase or booking at no extra cost to you. We really appreciate your support as it helps us keep this website going. Thank you!
+Found this article useful? Help us help other travelers by sharing it! 
+323 shares
+  * [ Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.willflyforfood.net%2Fhoi-an-food-guide%2F&t=Hoi%20An%20Food%20Guide%3A%2025%20Must-Try%20Hoi%20An%20Restaurants%20and%20Street%20Food%20Stalls "Share on Facebook")
+  * [ Twitter](https://x.com/intent/tweet?text=Hoi%20An%20Food%20Guide%3A%2025%20Must-Try%20Hoi%20An%20Restaurants%20and%20Street%20Food%20Stalls&url=https%3A%2F%2Fwww.willflyforfood.net%2Fhoi-an-food-guide%2F&via=willflyforfood_ "Share on X")
+  * Pinterest
+  * [ LinkedIn](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.willflyforfood.net%2Fhoi-an-food-guide%2F&title=Hoi%20An%20Food%20Guide%3A%2025%20Must-Try%20Hoi%20An%20Restaurants%20and%20Street%20Food%20Stalls&summary=I%27ll%20give%20you%20three%20reasons%20to%20visit%20Hoi%20An%20%E2%80%93%20banh%20mi%2C%20com%20ga%2C%20and%20cao%20lau.%20They%27re%20three%20of%20the%20best%20things%20you%20can%20eat%20in%20this%20central%20Vietnamese%20town%2C%20which%20is%20saying%20a%20lot%20because%20there%27s%20plenty%20of%20good%20food%20to%20be%20had%20here.&mini=true "Share on LinkedIn")
+  * Save
+  * Email
+  * [ Print](https://www.willflyforfood.net/hoi-an-food-guide/ "Print this webpage")
+
+
+![](https://secure.gravatar.com/avatar/900007a5ad9f4c2417833fbbc62c367d0c177c4f8ff173a571d94fcffd46b0dc?s=50&d=mm&r=g)
+By Author [Jota Be con Renee](https://www.willflyforfood.net/the-traveleaters/)
+Categories [DESTINATIONS](https://www.willflyforfood.net/category/barefoot-bohemian/), [FOOD GUIDES](https://www.willflyforfood.net/category/food-guides/), [VIETNAM](https://www.willflyforfood.net/category/barefoot-bohemian/vietnam/)
+Tags [Food in Asia](https://www.willflyforfood.net/tag/asian-food/)[Street Food](https://www.willflyforfood.net/tag/street-food/)[Visit Asia](https://www.willflyforfood.net/tag/asia-travel/)
+## Post navigation
+[The First-Timer’s Winter Sapporo Travel Guide](https://www.willflyforfood.net/the-first-timers-winter-travel-guide-to-sapporo-in-hokkaido-japan/)
+[Alishan Forest Tour: Explore Fenqihu and the Alishan National Scenic Area from Chiayi](https://www.willflyforfood.net/alishan-forest-tour-explore-fenqihu-and-alishan-scenic-area-from-chiayi-city-taiwan/)
+Website
+Comment for robots Please empty this comment field to prove you're human.
+Judy
+Thursday 24th of August 2023
+Thank you much for this. We arrived in Hoi an today and already I've used your blog to decide where to have dinner tonight. I really want the Cao Lau. I was last in Hoi an in 2012 and remember this as an outstanding dish. Also the white rose dumplings. Over the years I have periodically followed the story of the special noodles and I believe several years ago they were looking for a buyer who they were willing to share the recipe with. I don't know if that ever happened. But thank you, we are here for 5 days so will definitely be following some of your recommendations. Kind regards
+JB & Renée
+Saturday 9th of September 2023
+Happy you found the guide useful Judy!
+Lau
+Monday 3rd of July 2023
+Great article. Based on your recommendation we tried Moi, and will definitely be following the rest of your advise. Moi was the best food we've eaten in Vietnam so far
+JB & Renée
+Saturday 8th of July 2023
+Happy you enjoyed it Lau! Moi is a delicious and a lot of fun too.
+Upasana Mallick
+Friday 30th of September 2022
+I am blessed to have found your blog! You are doing such a great job, I am really really grateful for this! THANK YOU!! :)
+JB & Renée
+Sunday 2nd of October 2022
+Happy you found it useful Upasana!
+Sean
+Monday 12th of September 2022
+Hi! Do you happen to have any Danang food stall recommendations?
+JB & Renée
+Wednesday 14th of September 2022
+No sorry, we haven't spent enough time in Da Nang yet to come up with a guide, but we will soon!
+Meg
+Saturday 9th of April 2022
+Good list. I hope you will come visit and update this list because the city has changed a lot in the past two years. Many places are closed. Borders just opened and we are just seeing tourists again.
+JB & Renée
+Sunday 10th of April 2022
+Hi Meg, we do plan on coming back but not until early 2023. I did update the list recently using whatever information I could find online. If there are any other restaurants on this list that have permanently closed in the past 2 years, then we'd appreciate it if you could let us know. Thank you!
+### Search the Site
+Search for:
+### What People Are Saying About Will Fly for Food
+_"You guys really know what you’re talking about!! We visited several of your recommended restaurants in Valladolid and Playa del Carmen and you never let us down. Delicious food every time and at the right price. Muchas gracias"_  
+– Jim on our [Valladolid](https://www.willflyforfood.net/valladolid-restaurants/) and [Playa del Carmen](https://www.willflyforfood.net/playa-del-carmen-restaurants/) restaurant guides
+_"As someone who’s married to a Vietnamese woman, speaks the language reasonably well, and has lived in Hanoi for most of the last 15 years, I’m impressed! This is an excellent and well-researched list. Many of the places you mention I know and can vouch for, and the ones I don’t know I will certainly try when we go back to live in the city this spring. Congrats for putting together such a quality guide and thanks for the recommendations!"_  
+– Hal on our [Hanoi restaurant guide](https://www.willflyforfood.net/hanoi-food-guide-25-must-eat-restaurants-street-food-stalls-in-hanoi-vietnam/)
+_"I really appreciate your effort to find the traditional dishes and places to eat that one can only experience only in SMA. This was the only source I could find that didn’t recommend all the hotel restaurants and did the foot-travel-research to bring us the best! A big thank you for this!! Keep up the great work, it’s appreciated!"_  
+– Sam on our [SMDA restaurant guide](https://www.willflyforfood.net/san-miguel-de-allende-restaurants/)
+_"This is the BEST representation of my country food that I have ever seen. I’m very protective of our things and this made me proud. Thank you."_  
+– Erica on our [Argentina food guide](https://www.willflyforfood.net/food-in-argentina/)
+_"We had the Quesabirria at Tacos Don Juan today and WOW!! That was the best taco yet! Thank you for the awesome article."_  
+– Tiffany on our [Mexico City taqueria guide](https://www.willflyforfood.net/best-tacos-in-mexico-city/)
+DISCLAIMER  
+We strive to update this website as often as possible but we can't guarantee that all the information is always accurate. Some information may have changed since the time of writing so it's important that you verify any information before proceeding. You are reading the information on this website at your own free will and any reliance you place on said information is strictly at your own risk. Under no circumstances will we be liable for any loss or damage in connection with the use of this website. You can read our [Terms of Use](https://www.willflyforfood.net/terms-of-use/) / [Disclaimer](https://www.willflyforfood.net/disclaimer/) / [Privacy Policy](https://www.willflyforfood.net/privacy-policy/) for more information.
+COPYRIGHT POLICY  
+Unless otherwise stated, all photos, text, graphics, and videos used on this website are the intellectual property of Will Fly for Food and its contributors and protected by copyright laws. Any unauthorized use is strictly prohibited. You can refer to our [Intellectual Property policy](https://www.willflyforfood.net/terms-of-use/#intellectual-property) for more information.
+AMAZON ASSOCIATES DISCLOSURE  
+willflyforfood.net is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Copyright © 2026 Will Fly for Food. All rights reserved.
