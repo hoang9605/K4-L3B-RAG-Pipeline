@@ -18,6 +18,31 @@ from pathlib import Path
 
 LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
+# OCR chậm (~17s/trang trên CPU) nên cache kết quả và commit để cả nhóm dùng lại.
+OCR_CACHE_DIR = Path(__file__).parent.parent / "data" / "ocr_cache"
+
+
+def ocr_pdf(path: Path) -> str:
+    """OCR PDF scan bằng EasyOCR tiếng Việt; dùng cache nếu đã OCR trước đó."""
+    cache = OCR_CACHE_DIR / f"{path.stem}.txt"
+    if cache.exists():
+        return cache.read_text(encoding="utf-8")
+
+    import easyocr
+    import numpy as np
+    import pypdfium2 as pdfium
+
+    reader = easyocr.Reader(["vi"], gpu=False, verbose=False)
+    pdf = pdfium.PdfDocument(str(path))
+    pages = []
+    for index in range(len(pdf)):
+        print(f"  OCR {path.name}: page {index + 1}/{len(pdf)}")
+        image = np.array(pdf[index].render(scale=2).to_pil())
+        pages.append("\n".join(reader.readtext(image, detail=0, paragraph=True)))
+    text = "\n\n".join(pages).strip()
+    OCR_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache.write_text(text, encoding="utf-8")
+    return text
 
 
 def prepare_output_dir(name: str) -> Path:
@@ -37,9 +62,12 @@ def convert_legal_docs() -> None:
     for path in legal_dir.iterdir():
         if path.suffix.lower() in {".pdf", ".doc", ".docx"}:
             text = converter.convert(str(path)).text_content.strip()
+            if not text and path.suffix.lower() == ".pdf":
+                # PDF scan (chỉ có ảnh) không có lớp text -> OCR.
+                print(f"No text layer, running OCR: {path.name}")
+                text = ocr_pdf(path)
             if not text:
-                # PDF scan (chỉ có ảnh) không trích được chữ -> không tạo file rỗng.
-                print(f"Skipped (no text, likely scanned): {path.name}")
+                print(f"Skipped (no text): {path.name}")
                 continue
             (output_dir / f"{path.stem}.md").write_text(text, encoding="utf-8")
 
